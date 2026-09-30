@@ -1,7 +1,1676 @@
 {
   "28/09/2026": {
-    "Uniques": {},
-    "Sets": {},
+    "Uniques": {
+      "Corrupt": {
+        "Value": "350",
+        "Stability": "Stable",
+        "Demand": "3",
+        "Rarity": "3",
+        "Origin": "Data Loss from MM1 -> MM2 Update",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-25",
+        "PctChange": "-6.7%"
+      },
+      "slouse's Clown (Gun)": {
+        "Owner": "slouse",
+        "Origin": "Gift From Nikilis",
+        "Demand": "11",
+        "Rarity": "11"
+      },
+      "slouse's Clown (Knife)": {
+        "Owner": "slouse",
+        "Origin": "Gift From Nikilis",
+        "Demand": "11",
+        "Rarity": "11"
+      },
+      "Sharkseeker": {
+        "Origin": "Nerf x Roblox Promo",
+        "Rarity": "6"
+      },
+      "Dartbringer": {
+        "Origin": "Nerf x Roblox Promo",
+        "Rarity": "7"
+      },
+      "Gold Candy": {
+        "Owner": "zLordKillerz",
+        "Origin": "Christmas 2017 LB"
+      },
+      "Gold Hallow": {
+        "Owner": "Else8888",
+        "Origin": "Halloween 2018 LB"
+      },
+      "Gold Sugar": {
+        "Owner": "d0wnfalling",
+        "Origin": "Christmas 2018 LB"
+      },
+      "Gold Elderwood": {
+        "Owner": "ironjenjin",
+        "Origin": "Halloween 2019 LB"
+      },
+      "Gold Minty": {
+        "Owner": "vFad4d",
+        "Origin": "Christmas 2019 Gifting LB"
+      },
+      "Gold Logchopper": {
+        "Owner": "Hippocritical",
+        "Origin": "Christmas 2019 Tokens LB"
+      },
+      "Gold Vamp's Edge": {
+        "Owner": "ironjenjin",
+        "Origin": "Halloween 2020 LB"
+      },
+      "Gold Iceblaster": {
+        "Owner": "SimplyALemon",
+        "Origin": "Christmas 2020 Gifting LB"
+      },
+      "Gold Icebreaker": {
+        "Owner": "Hippocritical",
+        "Origin": "Christmas 2020 Tokens LB"
+      },
+      "Gold Harvester": {
+        "Owner": "Songbreeze15",
+        "Origin": "Halloween 2021 LB"
+      },
+      "Gold Swirly": {
+        "Owner": "SimplyALemon",
+        "Origin": "Christmas 2021 Gifting LB"
+      },
+      "Gold Icecrusher": {
+        "Owner": "SimplyALemon",
+        "Origin": "Christmas 2022 Gifting LB"
+      },
+      "Gold Icepiercer": {
+        "Owner": "HellishDespair",
+        "Origin": "Christmas 2022 Tokens LB"
+      },
+      "Gold Traveler's": {
+        "Owner": "StreamSpeed",
+        "Origin": "Halloween 2023 LB"
+      },
+      "Gold Gingerscythe": {
+        "Owner": "SimplyALemon",
+        "Origin": "Christmas 2023 Gifting LB"
+      },
+      "Gold Gingerscope": {
+        "Owner": "StreamSpeed",
+        "Origin": "Christmas 2023 Tokens LB"
+      },
+      "Gold Vampire's Axe": {
+        "Owner": "semhsr",
+        "Origin": "Halloween 2024 LB"
+      },
+      "Gold Constellation": {
+        "Owner": "n9ughty",
+        "Origin": "Christmas 2024 Gifting LB"
+      },
+      "Gold Celestial": {
+        "Owner": "SnakeKing0705",
+        "Origin": "Christmas 2024 Tokens LB"
+      },
+      "Gold Synthwave": {
+        "Owner": "SnakeKing0705",
+        "Origin": "Summer 2025 LB"
+      },
+      "Gold Raygun": {
+        "Owner": "Walrus8495",
+        "Origin": "Halloween 2025 LB"
+      },
+      "Gold Snow Dagger": {
+        "Owner": "NiksPeak",
+        "Origin": "Christmas 2025 Gifting LB"
+      },
+      "Gold Snowcannon": {
+        "Owner": "Solzifyy",
+        "Origin": "Christmas 2025 Tokens LB"
+      },
+      "Silver Candy": {
+        "Owner": "DreamfulBella",
+        "Origin": "Christmas 2017 LB"
+      },
+      "Silver Hallow": {
+        "Owner": "Chowinz",
+        "Origin": "Halloween 2018 LB"
+      },
+      "Silver Sugar": {
+        "Owner": "mfdubs",
+        "Origin": "Christmas 2018 LB"
+      },
+      "Silver Elderwood": {
+        "Owner": "Dheawalker",
+        "Origin": "Halloween 2019 LB"
+      },
+      "Silver Minty": {
+        "Owner": "DreamfulBella",
+        "Origin": "Christmas 2019 Gifting LB"
+      },
+      "Silver Logchopper": {
+        "Owner": "ChrisPatron",
+        "Origin": "Christmas 2019 Tokens LB"
+      },
+      "Silver Vamp's Edge": {
+        "Owner": "ImFaire",
+        "Origin": "Halloween 2020 LB"
+      },
+      "Silver Iceblaster": {
+        "Owner": "LightenAli",
+        "Origin": "Christmas 2020 Gifting LB"
+      },
+      "Silver Icebreaker": {
+        "Owner": "ironjenjin",
+        "Origin": "Christmas 2020 Tokens LB"
+      },
+      "Silver Harvester": {
+        "Owner": "ChrisPatron",
+        "Origin": "Halloween 2021 LB"
+      },
+      "Silver Swirly": {
+        "Owner": "sirehns",
+        "Origin": "Christmas 2021 Gifting LB"
+      },
+      "Silver Icecrusher": {
+        "Owner": "sirehns",
+        "Origin": "Christmas 2022 Gifting LB"
+      },
+      "Silver Icepiercer": {
+        "Owner": "A_DawgFTW",
+        "Origin": "Christmas 2022 Tokens LB"
+      },
+      "Silver Traveler's": {
+        "Owner": "Slain_xz",
+        "Origin": "Halloween 2023 LB"
+      },
+      "Silver Gingerscythe": {
+        "Owner": "sirehns",
+        "Origin": "Christmas 2023 Gifting LB"
+      },
+      "Silver Gingerscope": {
+        "Owner": "Steadfast984O7",
+        "Origin": "Christmas 2023 Tokens LB"
+      },
+      "Silver Vampire's Axe": {
+        "Owner": "2huYui",
+        "Origin": "Halloween 2024 LB"
+      },
+      "Silver Constellation": {
+        "Owner": "fateoftheworldlol",
+        "Origin": "Christmas 2024 Gifting LB"
+      },
+      "Silver Celestial": {
+        "Owner": "Mrt_Tiago",
+        "Origin": "Christmas 2024 Tokens LB"
+      },
+      "Silver Synthwave": {
+        "Owner": "Walrus8495",
+        "Origin": "Summer 2025 LB"
+      },
+      "Silver Raygun": {
+        "Owner": "Ninfiaa",
+        "Origin": "Halloween 2025 LB"
+      },
+      "Silver Snow Dagger": {
+        "Owner": "01_2027",
+        "Origin": "Christmas 2025 Gifting LB"
+      },
+      "Silver Snowcannon": {
+        "Owner": "Nathiyus",
+        "Origin": "Christmas 2025 Tokens LB"
+      },
+      "Bronze Candy": {
+        "Owner": "x808z",
+        "Origin": "Christmas 2017 LB"
+      },
+      "Bronze Hallow": {
+        "Owner": "Never_Again101",
+        "Origin": "Halloween 2018 LB"
+      },
+      "Bronze Sugar": {
+        "Owner": "OverseerGreenEye1",
+        "Origin": "Christmas 2018 LB"
+      },
+      "Bronze Elderwood": {
+        "Owner": "Chowinz",
+        "Origin": "Halloween 2019 LB"
+      },
+      "Bronze Minty": {
+        "Owner": "proto_fox",
+        "Origin": "Christmas 2019 Gifting LB"
+      },
+      "Bronze Logchopper": {
+        "Owner": "dedpvp",
+        "Origin": "Christmas 2019 Tokens LB"
+      },
+      "Bronze Vamp's Edge": {
+        "Owner": "GalaxyPhoenixFlames",
+        "Origin": "Halloween 2020 LB"
+      },
+      "Bronze Iceblaster": {
+        "Owner": "aHappyBlaze",
+        "Origin": "Christmas 2020 Gifting LB"
+      },
+      "Bronze Icebreaker": {
+        "Owner": "Avwwie",
+        "Origin": "Christmas 2020 Tokens LB"
+      },
+      "Bronze Harvester": {
+        "Owner": "dedpvp",
+        "Origin": "Halloween 2021 LB"
+      },
+      "Bronze Swirly": {
+        "Owner": "supscapes",
+        "Origin": "Christmas 2021 Gifting LB"
+      },
+      "Bronze Icecrusher": {
+        "Owner": "Bmat213",
+        "Origin": "Christmas 2022 Gifting LB"
+      },
+      "Bronze Icepiercer": {
+        "Owner": "StreamSpeed",
+        "Origin": "Christmas 2022 Tokens LB"
+      },
+      "Bronze Traveler's": {
+        "Owner": "semhsr",
+        "Origin": "Halloween 2023 LB"
+      },
+      "Bronze Gingerscythe": {
+        "Owner": "luckyyloll",
+        "Origin": "Christmas 2023 Gifting LB"
+      },
+      "Bronze Gingerscope": {
+        "Owner": "Maliviolent",
+        "Origin": "Christmas 2023 Tokens LB"
+      },
+      "Bronze Vampire's Axe": {
+        "Owner": "StreamSpeed",
+        "Origin": "Halloween 2024 LB"
+      },
+      "Bronze Constellation": {
+        "Owner": "CoolBoyAwesome553",
+        "Origin": "Christmas 2024 Gifting LB"
+      },
+      "Bronze Celestial": {
+        "Owner": "Walrus8495",
+        "Origin": "Christmas 2024 Tokens LB"
+      },
+      "Bronze Synthwave": {
+        "Owner": "Maliviolent",
+        "Origin": "Summer 2025 LB"
+      },
+      "Bronze Raygun": {
+        "Owner": "doublehdude2",
+        "Origin": "Halloween 2025 LB"
+      },
+      "Bronze Snow Dagger": {
+        "Owner": "n9ughty",
+        "Origin": "Christmas 2025 Gifting LB"
+      },
+      "Bronze Snowcannon": {
+        "Owner": "Rotanix",
+        "Origin": "Christmas 2025 Tokens LB"
+      },
+      "Blue Candy": {
+        "Origin": "Christmas 2017 LB"
+      },
+      "Red Hallow": {
+        "Origin": "Halloween 2018 LB"
+      },
+      "Blue Sugar": {
+        "Origin": "Christmas 2018 LB"
+      },
+      "Blue Elderwood": {
+        "Origin": "Halloween 2019 LB"
+      },
+      "Blue Minty": {
+        "Origin": "Christmas 2019 Gifting LB"
+      },
+      "Blue Logchopper": {
+        "Origin": "Christmas 2019 Tokens LB"
+      },
+      "Blue Vamp's Edge": {
+        "Origin": "Halloween 2020 LB"
+      },
+      "Red Iceblaster": {
+        "Origin": "Christmas 2020 Gifting LB"
+      },
+      "Red Icebreaker": {
+        "Origin": "Christmas 2020 Tokens LB"
+      },
+      "Blue Harvester": {
+        "Origin": "Halloween 2021 LB"
+      },
+      "Blue Swirly": {
+        "Origin": "Christmas 2021 Gifting LB"
+      },
+      "Red Icecrusher": {
+        "Origin": "Christmas 2022 Gifting LB"
+      },
+      "Red Icepiercer": {
+        "Origin": "Christmas 2022 Tokens LB"
+      },
+      "Red Traveler's": {
+        "Origin": "Halloween 2023 LB"
+      },
+      "Blue Gingerscythe": {
+        "Origin": "Christmas 2023 Gifting LB"
+      },
+      "Blue Gingerscope": {
+        "Origin": "Christmas 2023 Tokens LB"
+      },
+      "Purple Vampire's Axe": {
+        "Origin": "Halloween 2024 LB"
+      },
+      "Red Constellation": {
+        "Origin": "Christmas 2024 Gifting LB"
+      },
+      "Red Celestial": {
+        "Origin": "Christmas 2024 Tokens LB"
+      },
+      "Blue Synthwave": {
+        "Origin": "Summer 2025 LB"
+      },
+      "Red Raygun": {
+        "Origin": "Halloween 2025 LB"
+      },
+      "Red Snow Dagger": {
+        "Origin": "Christmas 2025 Gifting LB"
+      },
+      "Red Snowcannon": {
+        "Origin": "Christmas 2025 Tokens LB"
+      }
+    },
+    "Sets": {
+      "Alien Set": {
+        "Value": "3850",
+        "Range": "3,800 - 3,850",
+        "Stability": "Receding",
+        "Demand": "5",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-100",
+        "PctChange": "-2.5%",
+        "Contains": "Alienbeam, Raygun"
+      },
+      "Aurora Set (Legend.)": {
+        "Value": "48",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-5",
+        "PctChange": "-9.4%",
+        "Contains": "Aurora (Gun), Aurora (Knife)"
+      },
+      "Aurora Set (Rare)": {
+        "Value": "8",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-11.1%",
+        "Contains": "Aurora (Gun), Aurora (Knife)"
+      },
+      "Bat Set": {
+        "Value": "158",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "+5",
+        "PctChange": "+3.3%",
+        "Contains": "Bat, Makeshift"
+      },
+      "Bats Set": {
+        "Value": "241",
+        "Stability": "Stable",
+        "Demand": "3",
+        "Rarity": "5",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "20",
+        "Diff": "+10",
+        "PctChange": "+4.3%",
+        "Contains": "Bats (Gun) [HALLOWS2018], Bats (Knife) [HALLOWS2018]"
+      },
+      "Bauble Set": {
+        "Value": "745",
+        "Range": "740 - 745",
+        "Stability": "Underpaid For",
+        "Demand": "5",
+        "Rarity": "4",
+        "Aliases": "Ornament Set, Orn Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-5",
+        "PctChange": "-0.7%",
+        "Contains": "Bauble, Ornament"
+      },
+      "Beach Set": {
+        "Value": "180",
+        "Range": "160 - 190",
+        "Stability": "Fluctuating",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Flippable",
+        "RiseChance": "10",
+        "Diff": "-10",
+        "PctChange": "-5.3%",
+        "Contains": "Beachy, Sands"
+      },
+      "Blizzard Set": {
+        "Value": "610",
+        "Stability": "Stable",
+        "Demand": "4",
+        "Rarity": "3",
+        "Aliases": "Blizz Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-10",
+        "PctChange": "-1.6%",
+        "Contains": "Blizzard, Snowstorm"
+      },
+      "Bloom Set": {
+        "Value": "810",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+20",
+        "PctChange": "+2.5%",
+        "Contains": "Bloom, Flora"
+      },
+      "Borealis Set": {
+        "Value": "285",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-10",
+        "PctChange": "-3.4%",
+        "Contains": "Australis, Borealis"
+      },
+      "Bow Set": {
+        "Value": "410",
+        "Stability": "Stable",
+        "Demand": "3",
+        "Rarity": "2",
+        "Aliases": "Bows",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-20",
+        "PctChange": "-4.7%",
+        "Contains": "Harvester, Icepiercer"
+      },
+      "Bringer Set": {
+        "Value": "65",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-1.5%",
+        "Contains": "Darkbringer, Lightbringer"
+      },
+      "Candy Set": {
+        "Value": "112",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-0.9%",
+        "Contains": "Candy, Sugar"
+      },
+      "Candy Swirl Set": {
+        "Value": "3",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-25.0%",
+        "Contains": "Candy Swirl (Gun), Candy Swirl (Knife)"
+      },
+      "Cavern Set": {
+        "Value": "8",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-11.1%",
+        "Contains": "Cavern (Gun), Cavern (Knife)"
+      },
+      "Celestial Set": {
+        "Value": "4900",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "4",
+        "Aliases": "Cel Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-50",
+        "PctChange": "-1.0%",
+        "Contains": "Celestial, Constellation"
+      },
+      "Chroma Alien Set": {
+        "Value": "38000",
+        "Stability": "Stable",
+        "Demand": "6",
+        "Rarity": "6",
+        "Aliases": "CAlien Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+250",
+        "PctChange": "+0.7%",
+        "Contains": "Chroma Alienbeam, Chroma Raygun"
+      },
+      "Chroma Bauble Set": {
+        "Value": "33825",
+        "Stability": "Stable",
+        "Demand": "7",
+        "Rarity": "6",
+        "Aliases": "CBauble Set, CBaub Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-1,000",
+        "PctChange": "-2.9%",
+        "Contains": "Chroma Bauble, Chroma Ornament"
+      },
+      "Chroma Beach Set": {
+        "Value": "2350",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "4",
+        "Aliases": "CBeach Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-100",
+        "PctChange": "-4.1%",
+        "Contains": "Chroma Beachy, Chroma Sands"
+      },
+      "Chroma Blizzard Set": {
+        "Value": "9750",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "5",
+        "Aliases": "CBlizz Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+250",
+        "PctChange": "+2.6%",
+        "Contains": "Chroma Blizzard, Chroma Snowstorm"
+      },
+      "Chroma Bringer Set": {
+        "Value": "125",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "CBS, CBringer Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-10",
+        "PctChange": "-7.4%",
+        "Contains": "Chroma Darkbringer, Chroma Lightbringer"
+      },
+      "Chroma Ever Set": {
+        "Value": "97000",
+        "Stability": "Stable",
+        "Demand": "7",
+        "Rarity": "8",
+        "Aliases": "CEver Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-1,000",
+        "PctChange": "-1.0%",
+        "Contains": "Chroma Evergreen, Chroma Evergun"
+      },
+      "Chroma Pet Set": {
+        "Value": "21",
+        "Range": "14 - 21",
+        "Stability": "Underpaid For",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "CPet Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "0",
+        "Diff": "-7",
+        "PctChange": "-25.0%",
+        "Contains": "Chroma Fire Bat, Chroma Fire Bear, Chroma Fire Bunny, Chroma Fire Cat, Chroma Fire Dog, Chroma Fire Fox, Chroma Fire Pig"
+      },
+      "Chroma Slasher Set": {
+        "Value": "72",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "CSlasher Set, CSlash Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-1.4%",
+        "Contains": "Chroma Laser, Chroma Slasher"
+      },
+      "Chroma Snow Set": {
+        "Value": "10100",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "5",
+        "Aliases": "CSnow Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-100",
+        "PctChange": "-1.0%",
+        "Contains": "Chroma Snowcannon, Chroma Snow Dagger"
+      },
+      "Chroma Sun Set": {
+        "Value": "18500",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "5",
+        "Aliases": "CSun Set, CSunrise Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+250",
+        "PctChange": "+1.4%",
+        "Contains": "Chroma Sunrise, Chroma Sunset"
+      },
+      "Chroma Sweet Set": {
+        "Value": "3500",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "4",
+        "Aliases": "CSweet Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-100",
+        "PctChange": "-2.8%",
+        "Contains": "Chroma Sweet, Chroma Treat"
+      },
+      "Chroma Weapon Set": {
+        "Value": "535",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-10",
+        "PctChange": "-1.8%",
+        "Contains": "Chroma Boneblade, Chroma Darkbringer, Chroma Deathshard, Chroma Fang, Chroma Gingerblade, Chroma Gemstone, Chroma Heat, Chroma Laser, Chroma Lightbringer, Chroma Luger, Chroma Saw, Chroma Seer, Chroma Shark, Chroma Slasher, Chroma Tides"
+      },
+      "Colored Seer Set": {
+        "Value": "16",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "1",
+        "Aliases": "Seer Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-6",
+        "PctChange": "-27.3%",
+        "Contains": "Blue Seer, Purple Seer, Red Seer, Seer, Orange Seer, Yellow Seer"
+      },
+      "Cookie Set": {
+        "Value": "25",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-3.8%",
+        "Contains": "Cookiecane, Gingermint"
+      },
+      "Corrupt Set": {
+        "Value": "368",
+        "Stability": "Stable",
+        "Demand": "3",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-0.5%",
+        "Contains": "Corrupt, Luger"
+      },
+      "Dark Set": {
+        "Value": "3575",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+50",
+        "PctChange": "+1.4%",
+        "Contains": "Darkshot, Darksword"
+      },
+      "Dark Set (Rare)": {
+        "Value": "71",
+        "Stability": "Stable",
+        "Demand": "3",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-5",
+        "PctChange": "-6.6%",
+        "Contains": "Darkgun, Darkknife"
+      },
+      "Elderwood Set": {
+        "Value": "71",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "EW Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-4",
+        "PctChange": "-5.3%",
+        "Contains": "Elderwood Revolver, Elderwood Scythe"
+      },
+      "Eternal Set": {
+        "Value": "43",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-8",
+        "PctChange": "-15.7%",
+        "Contains": "Eternalcane, Eternal III, Eternal IV, Eternal, Eternal II"
+      },
+      "Eternalcane Set": {
+        "Value": "26",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "Ecane Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-4",
+        "PctChange": "-13.3%",
+        "Contains": "Eternalcane, Lugercane"
+      },
+      "Ever Set": {
+        "Value": "6025",
+        "Stability": "Stable",
+        "Demand": "6",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "15",
+        "Diff": "+50",
+        "PctChange": "+0.8%",
+        "Contains": "Evergreen, Evergun"
+      },
+      "Eye Set": {
+        "Value": "6",
+        "Range": "4 - 6",
+        "Stability": "Underpaid For",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "Eyeball Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "0",
+        "Diff": "-2",
+        "PctChange": "-25.0%",
+        "Contains": "Overseer Eye, Eyeball"
+      },
+      "Flowerwood Set": {
+        "Value": "505",
+        "Stability": "Stable",
+        "Demand": "4",
+        "Rarity": "3",
+        "Aliases": "FW Set, FWood Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-10",
+        "PctChange": "-1.9%",
+        "Contains": "Flowerwood, Flowerwood Gun"
+      },
+      "Frozen Set": {
+        "Value": "4",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-33.3%",
+        "Contains": "Frozen (Gun), Frozen (Knife)"
+      },
+      "Full Bringer Set": {
+        "Value": "190",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-0.5%",
+        "Contains": "Chroma Darkbringer, Chroma Lightbringer, Darkbringer, Lightbringer"
+      },
+      "Full Chroma Set": {
+        "Value": "555",
+        "Stability": "Underpaid For",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-15",
+        "PctChange": "-2.6%",
+        "Contains": "Chroma Boneblade, Chroma Darkbringer, Chroma Deathshard, Chroma Fang, Chroma Gingerblade, Chroma Gemstone, Chroma Heat, Chroma Laser, Chroma Lightbringer, Chroma Luger, Chroma Saw, Chroma Seer, Chroma Shark, Chroma Slasher, Chroma Tides, Chroma Fire Bat, Chroma Fire Bear, Chroma Fire Bunny, Chroma Fire Cat, Chroma Fire Dog, Chroma Fire Fox, Chroma Fire Pig"
+      },
+      "Full Colored Seer Set": {
+        "Value": "44",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "Full Seer Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-4.3%",
+        "Contains": "Chroma Seer, Blue Seer, Purple Seer, Red Seer, Seer, Orange Seer, Yellow Seer"
+      },
+      "Full Elderwood Set": {
+        "Value": "104",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "Full EW Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-6",
+        "PctChange": "-5.5%",
+        "Contains": "Elderwood Blade, Elderwood Revolver, Elderwood Scythe"
+      },
+      "Full Elite Set": {
+        "Value": "6",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "Elite Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-25.0%",
+        "Contains": "Blue Elite, Green Elite"
+      },
+      "Full Ice Set": {
+        "Value": "258",
+        "Stability": "Stable",
+        "Demand": "3",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-0.8%",
+        "Contains": "Icebreaker, Iceblaster, Icepiercer"
+      },
+      "Full Luger Set": {
+        "Value": "156",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "Full Lug Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-1.3%",
+        "Contains": "Chroma Luger, Luger, Red Luger, Green Luger, Ginger Luger, Lugercane"
+      },
+      "Full Swirly Set": {
+        "Value": "68",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "Full SW Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-3",
+        "PctChange": "-4.2%",
+        "Contains": "Swirly Axe, Swirly Gun, Swirly Blade"
+      },
+      "Ghost Set": {
+        "Value": "7",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-12.5%",
+        "Contains": "Ghost (Gun), Ghost (Knife)"
+      },
+      "Ginger Set (Godly)": {
+        "Value": "30",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-6.3%",
+        "Contains": "Gingerblade, Ginger Luger"
+      },
+      "Gingerbread Set [XMAS2019]": {
+        "Value": "86",
+        "Stability": "Stable",
+        "Demand": "3",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "15",
+        "Diff": "+5",
+        "PctChange": "+6.2%",
+        "Contains": "Gingerbread (Knife) [XMAS2019], Gingerbread (Gun) [XMAS2019]"
+      },
+      "Gingerbread Set [XMAS2020]": {
+        "Value": "13",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+3",
+        "PctChange": "+30.0%",
+        "Contains": "Gingerbread (Gun) [XMAS2020], Gingerbread (Knife) [XMAS2020]"
+      },
+      "Grave Set": {
+        "Value": "2",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-33.3%",
+        "Contains": "Grave (Gun), Grave (Knife)"
+      },
+      "Hallow Set": {
+        "Value": "50",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-3.8%",
+        "Contains": "Hallowgun, Hallowscythe"
+      },
+      "Haunted Set": {
+        "Value": "2",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-50.0%",
+        "Contains": "Haunted (Gun), Haunted (Knife)"
+      },
+      "Ice Set": {
+        "Value": "98",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-2.0%",
+        "Contains": "Icebreaker, Iceblaster"
+      },
+      "Icedriller Set": {
+        "Value": "6",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-3",
+        "PctChange": "-33.3%",
+        "Contains": "Icecracker, Icedriller"
+      },
+      "Iceflake Set": {
+        "Value": "33",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-4",
+        "PctChange": "-10.8%",
+        "Contains": "Icebeam, Iceflake"
+      },
+      "Latte Set": {
+        "Value": "280",
+        "Stability": "Stable",
+        "Demand": "3",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-10",
+        "PctChange": "-3.4%",
+        "Contains": "Latte (Gun), Latte (Knife)"
+      },
+      "Lights Set": {
+        "Value": "3",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-25.0%",
+        "Contains": "Lights (Gun), Lights (Knife)"
+      },
+      "Logchopper Set": {
+        "Value": "31",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "Log Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-6.1%",
+        "Contains": "Logchopper, Minty"
+      },
+      "Luger Set": {
+        "Value": "106",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "Lug Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-1.9%",
+        "Contains": "Luger, Red Luger, Green Luger, Ginger Luger, Lugercane"
+      },
+      "Marble Set": {
+        "Value": "4",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-20.0%",
+        "Contains": "Green Marble, Orange Marble"
+      },
+      "Mummy Set": {
+        "Value": "3",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-25.0%",
+        "Contains": "Mummy (Gun) [HALLOWS2018], Mummy (Knife) [HALLOWS2018]"
+      },
+      "Ocean Set": {
+        "Value": "565",
+        "Stability": "Stable",
+        "Demand": "4",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+10",
+        "PctChange": "+1.8%",
+        "Contains": "Ocean, Waves"
+      },
+      "Old Glory Set": {
+        "Value": "37",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "OG Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-2.6%",
+        "Contains": "Amerilaser, Old Glory"
+      },
+      "Pals Set": {
+        "Value": "20",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+4",
+        "PctChange": "+25.0%",
+        "Contains": "Alex, Corl, Denis, Sketchy, Sub"
+      },
+      "Pearl Set": {
+        "Value": "155",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-10",
+        "PctChange": "-6.1%",
+        "Contains": "Pearl, Pearlshine"
+      },
+      "Plasma Set": {
+        "Value": "33",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-5.7%",
+        "Contains": "Plasmabeam, Plasmablade"
+      },
+      "Potion Set": {
+        "Value": "4",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-33.3%",
+        "Contains": "Potion (Gun), Potion (Knife)"
+      },
+      "Pumpkin Set": {
+        "Value": "403",
+        "Range": "402 - 403",
+        "Stability": "Underpaid For",
+        "Demand": "3",
+        "Rarity": "4",
+        "Aliases": "Pump Set 2018",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "15",
+        "Diff": "-1",
+        "PctChange": "-0.2%",
+        "Contains": "Blue Pumpkin [HALLOWS2018], Green Pumpkin [HALLOWS2018], Purple Pumpkin [HALLOWS2018], Red Pumpkin [HALLOWS2018]"
+      },
+      "Pumpkin Set (2019)": {
+        "Value": "7",
+        "Range": "5 - 7",
+        "Stability": "Underpaid For",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "Pump Set 2019",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-22.2%",
+        "Contains": "Blue Pumpkin [HALLOWS2019], Green Pumpkin [HALLOWS2019], Red Pumpkin [HALLOWS2019]"
+      },
+      "Pumpkin Set (2020)": {
+        "Value": "39",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "15",
+        "Diff": "-3",
+        "PctChange": "-7.1%",
+        "Contains": "Blue Pumpkin [HALLOWS2020], Green Pumpkin [HALLOWS2020], Red Pumpkin [HALLOWS2020]"
+      },
+      "Pumpkin Set (2021)": {
+        "Value": "32",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "15",
+        "Diff": "-3",
+        "PctChange": "-8.6%",
+        "Contains": "Green Pumpkin [HALLOWS2021], Red Pumpkin [HALLOWS2021], Shadow Pumpkin"
+      },
+      "Rainbow Set": {
+        "Value": "830",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "3",
+        "Aliases": "RB Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+10",
+        "PctChange": "+1.2%",
+        "Contains": "Rainbow Gun, Rainbow"
+      },
+      "Retro Set": {
+        "Value": "70",
+        "Range": "55 - 85",
+        "Stability": "Fluctuating",
+        "Demand": "3",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Diff": "+0",
+        "Contains": "Golden, Shadow, Cowboy, Laser, Prince, Phaser, Ghost"
+      },
+      "Sakura Set": {
+        "Value": "2730",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "4",
+        "Aliases": "Sak Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+20",
+        "PctChange": "+0.7%",
+        "Contains": "Blossom, Sakura"
+      },
+      "Santa's Set (Legend.)": {
+        "Value": "6",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-4",
+        "PctChange": "-40.0%",
+        "Contains": "Santa's Magic, Santa's Spirit"
+      },
+      "Scratch Set": {
+        "Value": "6",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-14.3%",
+        "Contains": "Blue Scratch, Red Scratch"
+      },
+      "Silent Night Set": {
+        "Value": "62",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "15",
+        "Diff": "-1",
+        "PctChange": "-1.6%",
+        "Contains": "Silent Night (Gun), Silent Night (Knife)"
+      },
+      "Skate Set": {
+        "Value": "23",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-8.0%",
+        "Contains": "Euro, Grind, Indy, Ollie, Sidewinder, Tailslide"
+      },
+      "Slasher Set": {
+        "Value": "37",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "Slash Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-2.6%",
+        "Contains": "Laser, Slasher"
+      },
+      "Slime Set": {
+        "Value": "2",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-1",
+        "PctChange": "-33.3%",
+        "Contains": "Slime (Gun), Slime (Knife)"
+      },
+      "Small Set (103)": {
+        "Value": "1235",
+        "Range": "1,185 - 1,285",
+        "Stability": "Fluctuating",
+        "Demand": "4",
+        "Rarity": "4",
+        "Aliases": "SS103",
+        "Flippability": "Flippable",
+        "RiseChance": "10",
+        "Diff": "-5",
+        "PctChange": "-0.4%",
+        "Contains": "Batwing, Elderwood Scythe, Hallowscythe, Icebreaker, Icewing, Logchopper, America, Blood, Cowboy, Ghost, Golden, Laser, Phaser, Prince, Shadow, Splitter, Amerilaser, Battleaxe II, Battleaxe, Bioblade, Blaster, Blue Seer, Boneblade, Candy, Chill, Clockwork, Cookieblade, Darkbringer, Deathshard, Eggblade, Elderwood Revolver, Eternal, Eternal II, Eternal III, Eternal IV, Eternalcane, Fang, Flames, Frostbite, Frostsaber, Gemstone, Ghostblade, Ginger Luger, Gingerblade, Green Luger, Hallowgun, Hallow's Blade, Hallow's Edge, Handsaw, Heartblade, Heat, Ice Dragon, Ice Shard, Iceblaster, Jinglegun, Laser, Lightbringer, Luger, Lugercane, Minty, Nebula, Nightblade, Old Glory, Orange Seer, Peppermint, Pixel, Prismatic, Pumpking, Purple Seer, Red Luger, Red Seer, Saw, Seer, Shark, Slasher, Snowflake, Spider, Sugar, Tides, Vampire's Edge, Virtual, Winter's Edge, Xmas, Yellow Seer"
+      },
+      "Small Set (107)": {
+        "Value": "1270",
+        "Range": "1,220 - 1,320",
+        "Stability": "Fluctuating",
+        "Demand": "4",
+        "Rarity": "4",
+        "Aliases": "SS107",
+        "Flippability": "Flippable",
+        "RiseChance": "10",
+        "Diff": "-5",
+        "PctChange": "-0.4%",
+        "Contains": "Batwing, Elderwood Scythe, Hallowscythe, Icebreaker, Icewing, Logchopper, America, Blood, Cowboy, Ghost, Golden, Laser, Phaser, Prince, Shadow, Splitter, Amerilaser, Battleaxe II, Battleaxe, Bioblade, Blaster, Blue Seer, Boneblade, Candy, Chill, Clockwork, Cookieblade, Darkbringer, Deathshard, Eggblade, Elderwood Revolver, Eternal, Eternal II, Eternal III, Eternal IV, Eternalcane, Fang, Flames, Frostbite, Frostsaber, Gemstone, Ghostblade, Ginger Luger, Gingerblade, Green Luger, Hallowgun, Hallow's Blade, Hallow's Edge, Handsaw, Heartblade, Heat, Ice Dragon, Ice Shard, Iceblaster, Jinglegun, Laser, Lightbringer, Luger, Lugercane, Minty, Nebula, Nightblade, Old Glory, Orange Seer, Peppermint, Pixel, Plasmabeam, Plasmablade, Prismatic, Pumpking, Purple Seer, Red Luger, Red Seer, Saw, Seer, Shark, Slasher, Snowflake, Spider, Sugar, Tides, Vampire's Edge, Virtual, Winter's Edge, Xmas, Yellow Seer"
+      },
+      "Snakebite Set": {
+        "Value": "4",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-33.3%",
+        "Contains": "Snakebite (Gun), Snakebite (Knife)"
+      },
+      "Snow Set": {
+        "Value": "850",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-35",
+        "PctChange": "-4.0%",
+        "Contains": "Snowcannon, Snow Dagger"
+      },
+      "Soul Set": {
+        "Value": "1310",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+10",
+        "PctChange": "+0.8%",
+        "Contains": "Soul, Spirit"
+      },
+      "Sparkle Set": {
+        "Value": "127",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "+2",
+        "PctChange": "+1.6%",
+        "Contains": "Sparkle1, Sparkle2, Sparkle3, Sparkle4, Sparkle5, Sparkle6, Sparkle7, Sparkle8, Sparkle9, Sparkle10"
+      },
+      "Spectral Set": {
+        "Value": "53",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-5",
+        "PctChange": "-8.6%",
+        "Contains": "Spectral (Gun), Spectral (Knife)"
+      },
+      "Spectre Set": {
+        "Value": "70",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-4",
+        "PctChange": "-5.4%",
+        "Contains": "Phantom, Spectre"
+      },
+      "Sun Set": {
+        "Value": "1725",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "4",
+        "Aliases": "Sunrise Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-50",
+        "PctChange": "-2.8%",
+        "Contains": "Sunrise, Sunset"
+      },
+      "Sweet Set": {
+        "Value": "305",
+        "Stability": "Stable",
+        "Demand": "3",
+        "Rarity": "3",
+        "Aliases": "Sweet Treat Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-10",
+        "PctChange": "-3.2%",
+        "Contains": "Sweet, Treat"
+      },
+      "Swirly Set": {
+        "Value": "56",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "SW Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-3.4%",
+        "Contains": "Swirly Gun, Swirly Axe"
+      },
+      "Toxic Set": {
+        "Value": "7",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-22.2%",
+        "Contains": "Toxic (Gun), Toxic (Knife)"
+      },
+      "Traveler Set": {
+        "Value": "53",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-5",
+        "PctChange": "-8.6%",
+        "Contains": "Traveler (Gun), Traveler (Knife)"
+      },
+      "Traveler's Set": {
+        "Value": "13200",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "5",
+        "Aliases": "Trav Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-100",
+        "PctChange": "-0.8%",
+        "Contains": "Traveler's Axe, Traveler's Gun"
+      },
+      "Vampire Set (Legend.)": {
+        "Value": "48",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "-5",
+        "PctChange": "-9.4%",
+        "Contains": "Vampire (Gun), Vampire (Knife)"
+      },
+      "Vampire Set (Rare)": {
+        "Value": "4",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-33.3%",
+        "Contains": "Vampire (Gun), Vampire (Knife)"
+      },
+      "Vampire's Set": {
+        "Value": "3500",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "4",
+        "Aliases": "Vamp Set",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+25",
+        "PctChange": "+0.7%",
+        "Contains": "Vampire's Axe, Vampire's Gun"
+      },
+      "Vintage Set": {
+        "Value": "59",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-3.3%",
+        "Contains": "Ghost, Blood, America, Laser, Phaser, Prince, Shadow, Cowboy, Golden, Splitter"
+      },
+      "Virtual Set": {
+        "Value": "30",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "2",
+        "Aliases": "VSet",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-3",
+        "PctChange": "-9.1%",
+        "Contains": "Blaster, Virtual"
+      },
+      "Wrap Set": {
+        "Value": "24",
+        "Stability": "Stable",
+        "Demand": "2",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+4",
+        "PctChange": "+20.0%",
+        "Contains": "Wrap (Gun), Wrap (Knife)"
+      },
+      "Wrapping Paper Set": {
+        "Value": "14",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "Wraps, Papers",
+        "RiseChance": "0",
+        "Diff": "-2",
+        "PctChange": "-12.5%",
+        "Contains": "Ultra Wrap, Gold Papers, Blue Papers, Purple Papers, Red Papers, Box of Fertilizer, Green Papers"
+      },
+      "Xeno Set": {
+        "Value": "810",
+        "Stability": "Stable",
+        "Demand": "5",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "10",
+        "Diff": "+30",
+        "PctChange": "+3.8%",
+        "Contains": "Xenoknife, Xenoshot"
+      },
+      "Zombie Set": {
+        "Value": "6",
+        "Stability": "Stable",
+        "Demand": "1",
+        "Rarity": "3",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "5",
+        "Diff": "-2",
+        "PctChange": "-25.0%",
+        "Contains": "Zombie (Gun), Zombie (Knife)"
+      },
+      "Zombified Set": {
+        "Value": "135",
+        "Stability": "Stable",
+        "Demand": "3",
+        "Rarity": "4",
+        "Aliases": "N/A",
+        "Flippability": "Rarely Flippable",
+        "RiseChance": "15",
+        "Diff": "+5",
+        "PctChange": "+3.8%",
+        "Contains": "Zombified (Gun), Zombified (Knife)"
+      }
+    },
     "Ancients": {
       "Batwing": {
         "Value": "42",
