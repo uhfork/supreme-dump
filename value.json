@@ -379,8 +379,8 @@
         "Stability": "Doing Well",
         "Demand": "7",
         "Rarity": "8",
-        "PctChange": "+4.4%",
         "Diff": "+4,000",
+        "PctChange": "+4.4%",
         "Contains": "Chroma Evergreen, Chroma Evergun"
       },
       "Chroma Bauble Set": {
@@ -388,8 +388,8 @@
         "Stability": "Stable",
         "Demand": "7",
         "Rarity": "6",
-        "PctChange": "+3.2%",
         "Diff": "+1,000",
+        "PctChange": "+3.2%",
         "Contains": "Chroma Bauble, Chroma Ornament"
       },
       "Chroma Alien Set": {
@@ -397,8 +397,8 @@
         "Stability": "Stable",
         "Demand": "6",
         "Rarity": "6",
-        "PctChange": "-1.6%",
         "Diff": "-500",
+        "PctChange": "-1.6%",
         "Contains": "Chroma Alienbeam, Chroma Raygun"
       },
       "Chroma Sun Set": {
@@ -406,8 +406,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "5",
-        "PctChange": "-1.8%",
         "Diff": "-250",
+        "PctChange": "-1.8%",
         "Contains": "Chroma Sunrise, Chroma Sunset"
       },
       "Full Chroma Ember Set": {
@@ -416,8 +416,8 @@
         "Stability": "Underpaid For",
         "Demand": "5",
         "Rarity": "5",
-        "PctChange": "-18.7%",
         "Diff": "-3,050",
+        "PctChange": "-18.7%",
         "Contains": "Chroma Emberbow, Chroma Emberscythe, Chroma Embersickle"
       },
       "Chroma Emberscythe Set": {
@@ -426,8 +426,8 @@
         "Stability": "Underpaid For",
         "Demand": "5",
         "Rarity": "5",
-        "PctChange": "-20.7%",
         "Diff": "-3,000",
+        "PctChange": "-20.7%",
         "Contains": "Chroma Emberscythe, Chroma Emberbow"
       },
       "Chroma Snow Set": {
@@ -435,8 +435,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "5",
-        "PctChange": "-1.0%",
         "Diff": "-100",
+        "PctChange": "-1.0%",
         "Contains": "Chroma Snowcannon, Chroma Snow Dagger"
       },
       "Chroma Blizzard Set": {
@@ -444,8 +444,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "5",
-        "PctChange": "+2.6%",
         "Diff": "+250",
+        "PctChange": "+2.6%",
         "Contains": "Chroma Blizzard, Chroma Snowstorm"
       },
       "Chroma Embersickle Set": {
@@ -454,8 +454,8 @@
         "Stability": "Underpaid For",
         "Demand": "5",
         "Rarity": "5",
-        "PctChange": "-7.0%",
         "Diff": "-550",
+        "PctChange": "-7.0%",
         "Contains": "Chroma Embersickle, Chroma Emberbow"
       },
       "Chroma Sweet Set": {
@@ -463,8 +463,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "4",
-        "PctChange": "-2.8%",
         "Diff": "-100",
+        "PctChange": "-2.8%",
         "Contains": "Chroma Sweet, Chroma Treat"
       },
       "Chroma Mortal Set": {
@@ -472,8 +472,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "4",
-        "PctChange": "-11.1%",
         "Diff": "-400",
+        "PctChange": "-11.1%",
         "Contains": "Chroma Mortal, Chroma Immortal"
       },
       "Chroma Beach Set": {
@@ -481,8 +481,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "4",
-        "PctChange": "-2.9%",
         "Diff": "-50",
+        "PctChange": "-2.9%",
         "Contains": "Chroma Beachy, Chroma Sands"
       },
       "Chroma Bringer Set": {
@@ -490,8 +490,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-7.4%",
         "Diff": "-10",
+        "PctChange": "-7.4%",
         "Contains": "Chroma Darkbringer, Chroma Lightbringer"
       },
       "Chroma Slasher Set": {
@@ -499,8 +499,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-2.8%",
         "Diff": "-2",
+        "PctChange": "-2.8%",
         "Contains": "Chroma Laser, Chroma Slasher"
       },
       "Chroma Pet Set": {
@@ -509,8 +509,8 @@
         "Stability": "Underpaid For",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-25.0%",
         "Diff": "-7",
+        "PctChange": "-25.0%",
         "Contains": "Chroma Fire Bat, Chroma Fire Bear, Chroma Fire Bunny, Chroma Fire Cat, Chroma Fire Dog, Chroma Fire Fox, Chroma Fire Pig"
       },
       "Traveler's Set": {
@@ -519,8 +519,8 @@
         "Stability": "Underpaid For",
         "Demand": "5",
         "Rarity": "5",
-        "PctChange": "-0.9%",
         "Diff": "-100",
+        "PctChange": "-0.9%",
         "Contains": "Traveler's Axe, Traveler's Gun"
       },
       "Ever Set": {
@@ -529,8 +529,8 @@
         "Stability": "Overpaid For",
         "Demand": "6",
         "Rarity": "4",
-        "PctChange": "+2.0%",
         "Diff": "+125",
+        "PctChange": "+2.0%",
         "Contains": "Evergreen, Evergun"
       },
       "Celestial Set": {
@@ -539,8 +539,8 @@
         "Stability": "Doing Well",
         "Demand": "6",
         "Rarity": "4",
-        "PctChange": "+1.1%",
         "Diff": "+50",
+        "PctChange": "+1.1%",
         "Contains": "Celestial, Constellation"
       },
       "Alien Set": {
@@ -548,8 +548,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "4",
-        "PctChange": "-1.3%",
         "Diff": "-50",
+        "PctChange": "-1.3%",
         "Contains": "Alienbeam, Raygun"
       },
       "Vampire's Set": {
@@ -558,8 +558,8 @@
         "Stability": "Underpaid For",
         "Demand": "5",
         "Rarity": "4",
-        "PctChange": "-2.5%",
         "Diff": "-75",
+        "PctChange": "-2.5%",
         "Contains": "Vampire's Axe, Vampire's Gun"
       },
       "Dark Set": {
@@ -567,8 +567,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "4",
-        "PctChange": "-1.7%",
         "Diff": "-50",
+        "PctChange": "-1.7%",
         "Contains": "Darkshot, Darksword"
       },
       "Sakura Set": {
@@ -576,8 +576,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "4",
-        "PctChange": "-0.9%",
         "Diff": "-20",
+        "PctChange": "-0.9%",
         "Contains": "Blossom, Sakura"
       },
       "Sun Set": {
@@ -585,8 +585,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "4",
-        "PctChange": "-1.7%",
         "Diff": "-25",
+        "PctChange": "-1.7%",
         "Contains": "Sunrise, Sunset"
       },
       "Full Ember Set": {
@@ -595,8 +595,8 @@
         "Stability": "Fluctuating",
         "Demand": "5",
         "Rarity": "3",
-        "PctChange": "-10.8%",
         "Diff": "-155",
+        "PctChange": "-10.8%",
         "Contains": "Emberbow, Emberscythe, Embersickle"
       },
       "Emberscythe Set": {
@@ -605,8 +605,8 @@
         "Stability": "Underpaid For",
         "Demand": "5",
         "Rarity": "3",
-        "PctChange": "-11.5%",
         "Diff": "-150",
+        "PctChange": "-11.5%",
         "Contains": "Emberbow, Emberscythe"
       },
       "Snow Set": {
@@ -614,8 +614,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "3",
-        "PctChange": "+2.4%",
         "Diff": "+25",
+        "PctChange": "+2.4%",
         "Contains": "Snowcannon, Snow Dagger"
       },
       "Soul Set": {
@@ -623,8 +623,8 @@
         "Stability": "Stable",
         "Demand": "5",
         "Rarity": "3",
-        "PctChange": "-2.1%",
         "Diff": "-20",
+        "PctChange": "-2.1%",
         "Contains": "Soul, Spirit"
       },
       "Bauble Set": {
@@ -633,8 +633,8 @@
         "Stability": "Doing Well",
         "Demand": "6",
         "Rarity": "4",
-        "PctChange": "+6.3%",
         "Diff": "+50",
+        "PctChange": "+6.3%",
         "Contains": "Bauble, Ornament"
       },
       "Rainbow Set": {
@@ -642,8 +642,8 @@
         "Stability": "Stable",
         "Demand": "4",
         "Rarity": "3",
-        "PctChange": "-1.2%",
         "Diff": "-10",
+        "PctChange": "-1.2%",
         "Contains": "Rainbow Gun, Rainbow"
       },
       "Xeno Set": {
@@ -651,8 +651,8 @@
         "Stability": "Stable",
         "Demand": "4",
         "Rarity": "3",
-        "PctChange": "-2.4%",
         "Diff": "-20",
+        "PctChange": "-2.4%",
         "Contains": "Xenoknife, Xenoshot"
       },
       "Bloom Set": {
@@ -660,8 +660,8 @@
         "Stability": "Stable",
         "Demand": "4",
         "Rarity": "3",
-        "PctChange": "-1.2%",
         "Diff": "-10",
+        "PctChange": "-1.2%",
         "Contains": "Bloom, Flora"
       },
       "Embersickle Set": {
@@ -670,8 +670,8 @@
         "Stability": "Fluctuating",
         "Demand": "5",
         "Rarity": "3",
-        "PctChange": "-10.2%",
         "Diff": "-80",
+        "PctChange": "-10.2%",
         "Contains": "Embersickle, Emberbow"
       },
       "Bow Set": {
@@ -679,8 +679,8 @@
         "Stability": "Stable",
         "Demand": "4",
         "Rarity": "2",
-        "PctChange": "+3.9%",
         "Diff": "+20",
+        "PctChange": "+3.9%",
         "Contains": "Harvester, Icepiercer"
       },
       "Blizzard Set": {
@@ -688,8 +688,8 @@
         "Stability": "Stable",
         "Demand": "3",
         "Rarity": "3",
-        "PctChange": "-2.0%",
         "Diff": "-10",
+        "PctChange": "-2.0%",
         "Contains": "Blizzard, Snowstorm"
       },
       "Flowerwood Set": {
@@ -697,8 +697,8 @@
         "Stability": "Stable",
         "Demand": "3",
         "Rarity": "3",
-        "PctChange": "-2.1%",
         "Diff": "-10",
+        "PctChange": "-2.1%",
         "Contains": "Flowerwood, Flowerwood Gun"
       },
       "Ocean Set": {
@@ -706,8 +706,8 @@
         "Stability": "Stable",
         "Demand": "3",
         "Rarity": "3",
-        "PctChange": "-2.1%",
         "Diff": "-10",
+        "PctChange": "-2.1%",
         "Contains": "Ocean, Waves"
       },
       "Full Ice Set": {
@@ -715,8 +715,8 @@
         "Stability": "Stable",
         "Demand": "4",
         "Rarity": "2",
-        "PctChange": "+3.3%",
         "Diff": "+10",
+        "PctChange": "+3.3%",
         "Contains": "Icebreaker, Iceblaster, Icepiercer"
       },
       "Sweet Set": {
@@ -724,8 +724,8 @@
         "Stability": "Stable",
         "Demand": "3",
         "Rarity": "3",
-        "PctChange": "-3.2%",
         "Diff": "-10",
+        "PctChange": "-3.2%",
         "Contains": "Sweet, Treat"
       },
       "Borealis Set": {
@@ -733,8 +733,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "-3.8%",
         "Diff": "-10",
+        "PctChange": "-3.8%",
         "Contains": "Australis, Borealis"
       },
       "Corrupt Set": {
@@ -742,8 +742,8 @@
         "Stability": "Stable",
         "Demand": "3",
         "Rarity": "3",
-        "PctChange": "+0.8%",
         "Diff": "+2",
+        "PctChange": "+0.8%",
         "Contains": "Corrupt, Luger"
       },
       "Mortal Set": {
@@ -752,8 +752,8 @@
         "Stability": "Fluctuating",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "-4.0%",
         "Diff": "-10",
+        "PctChange": "-4.0%",
         "Contains": "Mortal, Immortal"
       },
       "Bat Set": {
@@ -761,8 +761,8 @@
         "Stability": "Stable",
         "Demand": "3",
         "Rarity": "2",
-        "PctChange": "+2.8%",
         "Diff": "+5",
+        "PctChange": "+2.8%",
         "Contains": "Bat, Makeshift"
       },
       "Pearl Set": {
@@ -770,8 +770,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-6.1%",
         "Diff": "-10",
+        "PctChange": "-6.1%",
         "Contains": "Pearl, Pearlshine"
       },
       "Beach Set": {
@@ -779,8 +779,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-7.1%",
         "Diff": "-10",
+        "PctChange": "-7.1%",
         "Contains": "Beachy, Sands"
       },
       "Candy Set": {
@@ -788,8 +788,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "2",
-        "PctChange": "+4.3%",
         "Diff": "+5",
+        "PctChange": "+4.3%",
         "Contains": "Candy, Sugar"
       },
       "Full Elderwood Set": {
@@ -797,8 +797,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-6.7%",
         "Diff": "-7",
+        "PctChange": "-6.7%",
         "Contains": "Elderwood Blade, Elderwood Revolver, Elderwood Scythe"
       },
       "Ice Set": {
@@ -806,8 +806,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-1.0%",
         "Diff": "-1",
+        "PctChange": "-1.0%",
         "Contains": "Icebreaker, Iceblaster"
       },
       "Elderwood Set": {
@@ -815,8 +815,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-5.6%",
         "Diff": "-4",
+        "PctChange": "-5.6%",
         "Contains": "Elderwood Revolver, Elderwood Scythe"
       },
       "Full Swirly Set": {
@@ -824,8 +824,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-4.4%",
         "Diff": "-3",
+        "PctChange": "-4.4%",
         "Contains": "Swirly Axe, Swirly Gun, Swirly Blade"
       },
       "Bringer Set": {
@@ -833,8 +833,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-1.5%",
         "Diff": "-1",
+        "PctChange": "-1.5%",
         "Contains": "Darkbringer, Lightbringer"
       },
       "Spectre Set": {
@@ -842,8 +842,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-8.6%",
         "Diff": "-6",
+        "PctChange": "-8.6%",
         "Contains": "Phantom, Spectre"
       },
       "Swirly Set": {
@@ -851,8 +851,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-5.4%",
         "Diff": "-3",
+        "PctChange": "-5.4%",
         "Contains": "Swirly Gun, Swirly Axe"
       },
       "Hallow Set": {
@@ -860,8 +860,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-3.8%",
         "Diff": "-2",
+        "PctChange": "-3.8%",
         "Contains": "Hallowgun, Hallowscythe"
       },
       "Old Glory Set": {
@@ -869,8 +869,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-2.6%",
         "Diff": "-1",
+        "PctChange": "-2.6%",
         "Contains": "Amerilaser, Old Glory"
       },
       "Slasher Set": {
@@ -878,8 +878,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-2.6%",
         "Diff": "-1",
+        "PctChange": "-2.6%",
         "Contains": "Laser, Slasher"
       },
       "Iceflake Set": {
@@ -887,8 +887,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-10.8%",
         "Diff": "-4",
+        "PctChange": "-10.8%",
         "Contains": "Icebeam, Iceflake"
       },
       "Plasma Set": {
@@ -896,8 +896,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-5.7%",
         "Diff": "-2",
+        "PctChange": "-5.7%",
         "Contains": "Plasmabeam, Plasmablade"
       },
       "Ginger Set (Godly)": {
@@ -905,8 +905,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-6.3%",
         "Diff": "-2",
+        "PctChange": "-6.3%",
         "Contains": "Gingerblade, Ginger Luger"
       },
       "Logchopper Set": {
@@ -914,8 +914,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-3.2%",
         "Diff": "-1",
+        "PctChange": "-3.2%",
         "Contains": "Logchopper, Minty"
       },
       "Virtual Set": {
@@ -923,8 +923,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-9.1%",
         "Diff": "-3",
+        "PctChange": "-9.1%",
         "Contains": "Blaster, Virtual"
       },
       "Eternalcane Set": {
@@ -932,8 +932,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-13.3%",
         "Diff": "-4",
+        "PctChange": "-13.3%",
         "Contains": "Eternalcane, Lugercane"
       },
       "Cookie Set": {
@@ -941,8 +941,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-4.0%",
         "Diff": "-1",
+        "PctChange": "-4.0%",
         "Contains": "Cookiecane, Gingermint"
       },
       "Pumpkin Set": {
@@ -951,8 +951,8 @@
         "Stability": "Underpaid For",
         "Demand": "3",
         "Rarity": "4",
-        "PctChange": "-0.2%",
         "Diff": "-1",
+        "PctChange": "-0.2%",
         "Contains": "Blue Pumpkin [HALLOWS2018], Green Pumpkin [HALLOWS2018], Purple Pumpkin [HALLOWS2018], Red Pumpkin [HALLOWS2018]"
       },
       "Latte Set": {
@@ -960,8 +960,8 @@
         "Stability": "Stable",
         "Demand": "3",
         "Rarity": "3",
-        "PctChange": "-3.4%",
         "Diff": "-10",
+        "PctChange": "-3.4%",
         "Contains": "Latte (Gun), Latte (Knife)"
       },
       "Bats Set": {
@@ -969,8 +969,8 @@
         "Stability": "Stable",
         "Demand": "3",
         "Rarity": "5",
-        "PctChange": "-4.1%",
         "Diff": "-10",
+        "PctChange": "-4.1%",
         "Contains": "Bats (Gun) [HALLOWS2018], Bats (Knife) [HALLOWS2018]"
       },
       "Zombified Set": {
@@ -978,8 +978,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "+3.8%",
         "Diff": "+5",
+        "PctChange": "+3.8%",
         "Contains": "Zombified (Gun), Zombified (Knife)"
       },
       "Gingerbread Set [XMAS2019]": {
@@ -987,8 +987,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "+6.2%",
         "Diff": "+5",
+        "PctChange": "+6.2%",
         "Contains": "Gingerbread (Knife) [XMAS2019], Gingerbread (Gun) [XMAS2019]"
       },
       "Dark Set (Rare)": {
@@ -996,8 +996,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "-7.0%",
         "Diff": "-5",
+        "PctChange": "-7.0%",
         "Contains": "Darkgun, Darkknife"
       },
       "Silent Night Set": {
@@ -1005,8 +1005,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "-1.6%",
         "Diff": "-1",
+        "PctChange": "-1.6%",
         "Contains": "Silent Night (Gun), Silent Night (Knife)"
       },
       "Spectral Set": {
@@ -1014,8 +1014,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "-8.6%",
         "Diff": "-5",
+        "PctChange": "-8.6%",
         "Contains": "Spectral (Gun), Spectral (Knife)"
       },
       "Traveler Set": {
@@ -1023,8 +1023,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "-8.6%",
         "Diff": "-5",
+        "PctChange": "-8.6%",
         "Contains": "Traveler (Gun), Traveler (Knife)"
       },
       "Aurora Set (Legend.)": {
@@ -1032,8 +1032,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "-9.4%",
         "Diff": "-5",
+        "PctChange": "-9.4%",
         "Contains": "Aurora (Gun), Aurora (Knife)"
       },
       "Vampire Set (Legend.)": {
@@ -1041,8 +1041,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "-9.4%",
         "Diff": "-5",
+        "PctChange": "-9.4%",
         "Contains": "Vampire (Gun), Vampire (Knife)"
       },
       "Pumpkin Set (2020)": {
@@ -1050,8 +1050,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "-7.1%",
         "Diff": "-3",
+        "PctChange": "-7.1%",
         "Contains": "Blue Pumpkin [HALLOWS2020], Green Pumpkin [HALLOWS2020], Red Pumpkin [HALLOWS2020]"
       },
       "Pumpkin Set (2021)": {
@@ -1059,8 +1059,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "-8.6%",
         "Diff": "-3",
+        "PctChange": "-8.6%",
         "Contains": "Green Pumpkin [HALLOWS2021], Red Pumpkin [HALLOWS2021], Shadow Pumpkin"
       },
       "Wrap Set": {
@@ -1068,8 +1068,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "+20.0%",
         "Diff": "+4",
+        "PctChange": "+20.0%",
         "Contains": "Wrap (Gun), Wrap (Knife)"
       },
       "Gingerbread Set [XMAS2020]": {
@@ -1077,8 +1077,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "4",
-        "PctChange": "+30.0%",
         "Diff": "+3",
+        "PctChange": "+30.0%",
         "Contains": "Gingerbread (Gun) [XMAS2020], Gingerbread (Knife) [XMAS2020]"
       },
       "Aurora Set (Rare)": {
@@ -1086,8 +1086,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "-11.1%",
         "Diff": "-1",
+        "PctChange": "-11.1%",
         "Contains": "Aurora (Gun), Aurora (Knife)"
       },
       "Cavern Set": {
@@ -1095,8 +1095,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "-11.1%",
         "Diff": "-1",
+        "PctChange": "-11.1%",
         "Contains": "Cavern (Gun), Cavern (Knife)"
       },
       "Toxic Set": {
@@ -1104,8 +1104,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "-22.2%",
         "Diff": "-2",
+        "PctChange": "-22.2%",
         "Contains": "Toxic (Gun), Toxic (Knife)"
       },
       "Ghost Set": {
@@ -1113,8 +1113,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-12.5%",
         "Diff": "-1",
+        "PctChange": "-12.5%",
         "Contains": "Ghost (Gun), Ghost (Knife)"
       },
       "Pumpkin Set (2019)": {
@@ -1123,8 +1123,8 @@
         "Stability": "Underpaid For",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-22.2%",
         "Diff": "-2",
+        "PctChange": "-22.2%",
         "Contains": "Blue Pumpkin [HALLOWS2019], Green Pumpkin [HALLOWS2019], Red Pumpkin [HALLOWS2019]"
       },
       "Icedriller Set": {
@@ -1132,8 +1132,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "2",
-        "PctChange": "-33.3%",
         "Diff": "-3",
+        "PctChange": "-33.3%",
         "Contains": "Icecracker, Icedriller"
       },
       "Full Elite Set": {
@@ -1141,8 +1141,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-25.0%",
         "Diff": "-2",
+        "PctChange": "-25.0%",
         "Contains": "Blue Elite, Green Elite"
       },
       "Santa's Set (Legend.)": {
@@ -1150,8 +1150,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-40.0%",
         "Diff": "-4",
+        "PctChange": "-40.0%",
         "Contains": "Santa's Magic, Santa's Spirit"
       },
       "Zombie Set": {
@@ -1159,8 +1159,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-25.0%",
         "Diff": "-2",
+        "PctChange": "-25.0%",
         "Contains": "Zombie (Gun), Zombie (Knife)"
       },
       "Eye Set": {
@@ -1169,8 +1169,8 @@
         "Stability": "Underpaid For",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-25.0%",
         "Diff": "-2",
+        "PctChange": "-25.0%",
         "Contains": "Overseer Eye, Eyeball"
       },
       "Scratch Set": {
@@ -1178,8 +1178,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-16.7%",
         "Diff": "-1",
+        "PctChange": "-16.7%",
         "Contains": "Blue Scratch, Red Scratch"
       },
       "Snakebite Set": {
@@ -1187,8 +1187,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "-33.3%",
         "Diff": "-2",
+        "PctChange": "-33.3%",
         "Contains": "Snakebite (Gun), Snakebite (Knife)"
       },
       "Vampire Set (Rare)": {
@@ -1196,8 +1196,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "-33.3%",
         "Diff": "-2",
+        "PctChange": "-33.3%",
         "Contains": "Vampire (Gun), Vampire (Knife)"
       },
       "Frozen Set": {
@@ -1205,8 +1205,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-33.3%",
         "Diff": "-2",
+        "PctChange": "-33.3%",
         "Contains": "Frozen (Gun), Frozen (Knife)"
       },
       "Marble Set": {
@@ -1214,8 +1214,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-20.0%",
         "Diff": "-1",
+        "PctChange": "-20.0%",
         "Contains": "Green Marble, Orange Marble"
       },
       "Potion Set": {
@@ -1223,8 +1223,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-33.3%",
         "Diff": "-2",
+        "PctChange": "-33.3%",
         "Contains": "Potion (Gun), Potion (Knife)"
       },
       "Candy Swirl Set": {
@@ -1232,8 +1232,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "-25.0%",
         "Diff": "-1",
+        "PctChange": "-25.0%",
         "Contains": "Candy Swirl (Gun), Candy Swirl (Knife)"
       },
       "Lights Set": {
@@ -1241,8 +1241,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-25.0%",
         "Diff": "-1",
+        "PctChange": "-25.0%",
         "Contains": "Lights (Gun), Lights (Knife)"
       },
       "Mummy Set": {
@@ -1250,8 +1250,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-25.0%",
         "Diff": "-1",
+        "PctChange": "-25.0%",
         "Contains": "Mummy (Gun) [HALLOWS2018], Mummy (Knife) [HALLOWS2018]"
       },
       "Grave Set": {
@@ -1259,8 +1259,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-33.3%",
         "Diff": "-1",
+        "PctChange": "-33.3%",
         "Contains": "Grave (Gun), Grave (Knife)"
       },
       "Haunted Set": {
@@ -1268,8 +1268,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-50.0%",
         "Diff": "-2",
+        "PctChange": "-50.0%",
         "Contains": "Haunted (Gun), Haunted (Knife)"
       },
       "Slime Set": {
@@ -1277,8 +1277,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-33.3%",
         "Diff": "-1",
+        "PctChange": "-33.3%",
         "Contains": "Slime (Gun), Slime (Knife)"
       },
       "Full Bringer Set": {
@@ -1286,8 +1286,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-0.5%",
         "Diff": "-1",
+        "PctChange": "-0.5%",
         "Contains": "Chroma Darkbringer, Chroma Lightbringer, Darkbringer, Lightbringer"
       },
       "Full Luger Set": {
@@ -1295,8 +1295,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "+1.3%",
         "Diff": "+2",
+        "PctChange": "+1.3%",
         "Contains": "Chroma Luger, Luger, Red Luger, Green Luger, Ginger Luger, Lugercane"
       },
       "Sparkle Set": {
@@ -1304,8 +1304,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "+1.6%",
         "Diff": "+2",
+        "PctChange": "+1.6%",
         "Contains": "Sparkle1, Sparkle2, Sparkle3, Sparkle4, Sparkle5, Sparkle6, Sparkle7, Sparkle8, Sparkle9, Sparkle10"
       },
       "Luger Set": {
@@ -1313,8 +1313,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "+1.9%",
         "Diff": "+2",
+        "PctChange": "+1.9%",
         "Contains": "Luger, Red Luger, Green Luger, Ginger Luger, Lugercane"
       },
       "Retro Set": {
@@ -1322,8 +1322,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "0%",
         "Diff": "+0",
+        "PctChange": "0%",
         "Contains": "Golden, Shadow, Cowboy, Laser, Prince, Phaser, Ghost"
       },
       "Vintage Set": {
@@ -1331,8 +1331,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-3.3%",
         "Diff": "-2",
+        "PctChange": "-3.3%",
         "Contains": "Ghost, Blood, America, Laser, Phaser, Prince, Shadow, Cowboy, Golden, Splitter"
       },
       "Eternal Set": {
@@ -1340,8 +1340,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-15.7%",
         "Diff": "-8",
+        "PctChange": "-15.7%",
         "Contains": "Eternalcane, Eternal III, Eternal IV, Eternal, Eternal II"
       },
       "Full Colored Seer Set": {
@@ -1349,8 +1349,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-2.3%",
         "Diff": "-1",
+        "PctChange": "-2.3%",
         "Contains": "Chroma Seer, Blue Seer, Purple Seer, Red Seer, Seer, Orange Seer, Yellow Seer"
       },
       "Skate Set": {
@@ -1358,8 +1358,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "-8.0%",
         "Diff": "-2",
+        "PctChange": "-8.0%",
         "Contains": "Euro, Grind, Indy, Ollie, Sidewinder, Tailslide"
       },
       "Pals Set": {
@@ -1367,8 +1367,8 @@
         "Stability": "Stable",
         "Demand": "2",
         "Rarity": "3",
-        "PctChange": "+25.0%",
         "Diff": "+4",
+        "PctChange": "+25.0%",
         "Contains": "Alex, Corl, Denis, Sketchy, Sub"
       },
       "Colored Seer Set": {
@@ -1376,8 +1376,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "1",
-        "PctChange": "-27.3%",
         "Diff": "-6",
+        "PctChange": "-27.3%",
         "Contains": "Blue Seer, Purple Seer, Red Seer, Seer, Orange Seer, Yellow Seer"
       },
       "Wrapping Paper Set": {
@@ -1385,8 +1385,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "3",
-        "PctChange": "-12.5%",
         "Diff": "-2",
+        "PctChange": "-12.5%",
         "Contains": "Ultra Wrap, Gold Papers, Blue Papers, Purple Papers, Red Papers, Box of Fertilizer, Green Papers"
       },
       "Small Set (107)": {
@@ -1395,8 +1395,8 @@
         "Stability": "Fluctuating",
         "Demand": "4",
         "Rarity": "4",
-        "PctChange": "+0.4%",
         "Diff": "+5",
+        "PctChange": "+0.4%",
         "Contains": "Batwing, Elderwood Scythe, Hallowscythe, Icebreaker, Icewing, Logchopper, America, Blood, Cowboy, Ghost, Golden, Laser, Phaser, Prince, Shadow, Splitter, Amerilaser, Battleaxe II, Battleaxe, Bioblade, Blaster, Blue Seer, Boneblade, Candy, Chill, Clockwork, Cookieblade, Darkbringer, Deathshard, Eggblade, Elderwood Revolver, Eternal, Eternal II, Eternal III, Eternal IV, Eternalcane, Fang, Flames, Frostbite, Frostsaber, Gemstone, Ghostblade, Ginger Luger, Gingerblade, Green Luger, Hallowgun, Hallow's Blade, Hallow's Edge, Handsaw, Heartblade, Heat, Icebeam, Iceflake, Ice Dragon, Ice Shard, Iceblaster, Jinglegun, Laser, Lightbringer, Luger, Lugercane, Minty, Nebula, Nightblade, Old Glory, Orange Seer, Peppermint, Pixel, Plasmabeam, Plasmablade, Prismatic, Pumpking, Purple Seer, Red Luger, Red Seer, Saw, Seer, Shark, Slasher, Snowflake, Spider, Sugar, Tides, Vampire's Edge, Virtual, Winter's Edge, Xmas, Yellow Seer"
       },
       "Small Set (103)": {
@@ -1405,8 +1405,8 @@
         "Stability": "Fluctuating",
         "Demand": "4",
         "Rarity": "4",
-        "PctChange": "+0.4%",
         "Diff": "+5",
+        "PctChange": "+0.4%",
         "Contains": "Batwing, Elderwood Scythe, Hallowscythe, Icebreaker, Icewing, Logchopper, America, Blood, Cowboy, Ghost, Golden, Laser, Phaser, Prince, Shadow, Splitter, Amerilaser, Battleaxe II, Battleaxe, Bioblade, Blaster, Blue Seer, Boneblade, Candy, Chill, Clockwork, Cookieblade, Darkbringer, Deathshard, Eggblade, Elderwood Revolver, Eternal, Eternal II, Eternal III, Eternal IV, Eternalcane, Fang, Flames, Frostbite, Frostsaber, Gemstone, Ghostblade, Ginger Luger, Gingerblade, Green Luger, Hallowgun, Hallow's Blade, Hallow's Edge, Handsaw, Heartblade, Heat, Ice Dragon, Ice Shard, Iceblaster, Jinglegun, Laser, Lightbringer, Luger, Lugercane, Minty, Nebula, Nightblade, Old Glory, Orange Seer, Peppermint, Pixel, Prismatic, Pumpking, Purple Seer, Red Luger, Red Seer, Saw, Seer, Shark, Slasher, Snowflake, Spider, Sugar, Tides, Vampire's Edge, Virtual, Winter's Edge, Xmas, Yellow Seer"
       },
       "Full Chroma Set": {
@@ -1415,8 +1415,8 @@
         "Stability": "Underpaid For",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-0.9%",
         "Diff": "-5",
+        "PctChange": "-0.9%",
         "Contains": "Chroma Boneblade, Chroma Darkbringer, Chroma Deathshard, Chroma Fang, Chroma Gingerblade, Chroma Gemstone, Chroma Heat, Chroma Laser, Chroma Lightbringer, Chroma Luger, Chroma Saw, Chroma Seer, Chroma Shark, Chroma Slasher, Chroma Tides, Chroma Fire Bat, Chroma Fire Bear, Chroma Fire Bunny, Chroma Fire Cat, Chroma Fire Dog, Chroma Fire Fox, Chroma Fire Pig"
       },
       "Chroma Weapon Set": {
@@ -1424,8 +1424,8 @@
         "Stability": "Stable",
         "Demand": "1",
         "Rarity": "2",
-        "PctChange": "-0.9%",
         "Diff": "-5",
+        "PctChange": "-0.9%",
         "Contains": "Chroma Boneblade, Chroma Darkbringer, Chroma Deathshard, Chroma Fang, Chroma Gingerblade, Chroma Gemstone, Chroma Heat, Chroma Laser, Chroma Lightbringer, Chroma Luger, Chroma Saw, Chroma Seer, Chroma Shark, Chroma Slasher, Chroma Tides"
       }
     },
@@ -1443,8 +1443,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Christmas 2023 (Tier 20)",
-        "PctChange": "+1.6%",
-        "Diff": "+250"
+        "Diff": "+250",
+        "PctChange": "+1.6%"
       },
       "Traveler's Axe": {
         "Value": "6,600",
@@ -1452,8 +1452,8 @@
         "Demand": "5",
         "Rarity": "5",
         "Origin": "Halloween 2023 (Tier 30)",
-        "PctChange": "-1.5%",
-        "Diff": "-100"
+        "Diff": "-100",
+        "PctChange": "-1.5%"
       },
       "Celestial": {
         "Value": "2,025",
@@ -1462,8 +1462,8 @@
         "Demand": "6",
         "Rarity": "4",
         "Origin": "Christmas 2024 (Tier 20)",
-        "PctChange": "+2.5%",
-        "Diff": "+50"
+        "Diff": "+50",
+        "PctChange": "+2.5%"
       },
       "Vampire's Axe": {
         "Value": "1,100",
@@ -1472,8 +1472,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Halloween 2024 (Tier 20)",
-        "PctChange": "-4.3%",
-        "Diff": "-50"
+        "Diff": "-50",
+        "PctChange": "-4.3%"
       },
       "Emberbow": {
         "Value": "575",
@@ -1482,8 +1482,8 @@
         "Demand": "5",
         "Rarity": "3",
         "Origin": "Halloween 2026 (Tier 30)",
-        "PctChange": "-11.5%",
-        "Diff": "-75"
+        "Diff": "-75",
+        "PctChange": "-11.5%"
       },
       "Emberscythe": {
         "Value": "575",
@@ -1492,8 +1492,8 @@
         "Demand": "5",
         "Rarity": "3",
         "Origin": "Crafting Embersickle and Emberbow in the Halloween 2026 Cauldron",
-        "PctChange": "-11.5%",
-        "Diff": "-75"
+        "Diff": "-75",
+        "PctChange": "-11.5%"
       },
       "Harvester": {
         "Value": "310",
@@ -1501,8 +1501,8 @@
         "Demand": "4",
         "Rarity": "2",
         "Origin": "Halloween 2021 (Tier 30)",
-        "PctChange": "+3.3%",
-        "Diff": "+10"
+        "Diff": "+10",
+        "PctChange": "+3.3%"
       },
       "Icepiercer": {
         "Value": "220",
@@ -1510,8 +1510,8 @@
         "Demand": "4",
         "Rarity": "2",
         "Origin": "Christmas 2022 (Tier 20)",
-        "PctChange": "+4.8%",
-        "Diff": "+10"
+        "Diff": "+10",
+        "PctChange": "+4.8%"
       },
       "Icebreaker": {
         "Value": "65",
@@ -1519,8 +1519,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2020 (Tier 20)",
-        "PctChange": "-3.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-3.0%"
       },
       "Batwing": {
         "Value": "40",
@@ -1528,8 +1528,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2018 (Item Pack)",
-        "PctChange": "-4.8%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-4.8%"
       },
       "Elderwood Scythe": {
         "Value": "35",
@@ -1537,8 +1537,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2019 (Tier 40)",
-        "PctChange": "-7.9%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-7.9%"
       },
       "Swirly Axe": {
         "Value": "35",
@@ -1546,8 +1546,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2021 (Tier 20)",
-        "PctChange": "-7.9%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-7.9%"
       },
       "Hallowscythe": {
         "Value": "30",
@@ -1555,8 +1555,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2020 (Tier 30)",
-        "PctChange": "-6.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-6.3%"
       },
       "Logchopper": {
         "Value": "17",
@@ -1564,8 +1564,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2019 (Tier 30)",
-        "PctChange": "-5.6%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-5.6%"
       },
       "Icewing": {
         "Value": "13",
@@ -1573,8 +1573,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2018 (Item Pack)",
-        "PctChange": "-13.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-13.3%"
       }
     },
     "Chromas": {
@@ -1585,8 +1585,8 @@
         "Rarity": "10",
         "Origin": "Halloween 2023 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-3.4%",
-        "Diff": "-5,000"
+        "Diff": "-5,000",
+        "PctChange": "-3.4%"
       },
       "Chroma Evergun": {
         "Value": "53,000",
@@ -1596,8 +1596,8 @@
         "Rarity": "8",
         "Origin": "Christmas 2023 (Gifting)",
         "Class": "Godly",
-        "PctChange": "+3.9%",
-        "Diff": "+2,000"
+        "Diff": "+2,000",
+        "PctChange": "+3.9%"
       },
       "Chroma Evergreen": {
         "Value": "42,000",
@@ -1607,8 +1607,8 @@
         "Rarity": "7",
         "Origin": "Christmas 2023 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "+5.0%",
-        "Diff": "+2,000"
+        "Diff": "+2,000",
+        "PctChange": "+5.0%"
       },
       "Chroma Bauble": {
         "Value": "30,000",
@@ -1617,8 +1617,8 @@
         "Rarity": "6",
         "Origin": "Christmas 2024 (Gifting)",
         "Class": "Godly",
-        "PctChange": "+3.4%",
-        "Diff": "+1,000"
+        "Diff": "+1,000",
+        "PctChange": "+3.4%"
       },
       "Chroma Constellation": {
         "Value": "27,000",
@@ -1627,8 +1627,8 @@
         "Rarity": "6",
         "Origin": "Christmas 2024 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-3.6%",
-        "Diff": "-1,000"
+        "Diff": "-1,000",
+        "PctChange": "-3.6%"
       },
       "Chroma Vampire's Gun": {
         "Value": "24,000",
@@ -1637,8 +1637,8 @@
         "Rarity": "6",
         "Origin": "Halloween 2024 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-2.0%",
-        "Diff": "-500"
+        "Diff": "-500",
+        "PctChange": "-2.0%"
       },
       "Chroma Alienbeam": {
         "Value": "18,000",
@@ -1647,8 +1647,8 @@
         "Rarity": "6",
         "Origin": "Halloween 2025 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-2.7%",
-        "Diff": "-500"
+        "Diff": "-500",
+        "PctChange": "-2.7%"
       },
       "Chroma Raygun": {
         "Value": "12,500",
@@ -1657,8 +1657,8 @@
         "Rarity": "5",
         "Origin": "Halloween 2025 (Tier 25)",
         "Class": "Godly",
-        "PctChange": "-2.0%",
-        "Diff": "-250"
+        "Diff": "-250",
+        "PctChange": "-2.0%"
       },
       "Chroma Sunrise": {
         "Value": "8,500",
@@ -1667,8 +1667,8 @@
         "Rarity": "5",
         "Origin": "Summer 2025 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-2.9%",
-        "Diff": "-250"
+        "Diff": "-250",
+        "PctChange": "-2.9%"
       },
       "Chroma Snowcannon": {
         "Value": "7,750",
@@ -1677,8 +1677,8 @@
         "Rarity": "5",
         "Origin": "Christmas 2025 (Tier 30)",
         "Class": "Godly",
-        "PctChange": "-3.1%",
-        "Diff": "-250"
+        "Diff": "-250",
+        "PctChange": "-3.1%"
       },
       "Chroma Emberscythe": {
         "Value": "6,000",
@@ -1688,8 +1688,8 @@
         "Rarity": "5",
         "Origin": "Crafting Embersickle and Emberbow in the Halloween 2026 Cauldron",
         "Class": "Ancient",
-        "PctChange": "-14.3%",
-        "Diff": "-1,000"
+        "Diff": "-1,000",
+        "PctChange": "-14.3%"
       },
       "Chroma Blizzard": {
         "Value": "5,500",
@@ -1698,8 +1698,8 @@
         "Rarity": "5",
         "Origin": "Christmas 2025 (Item Pack)",
         "Class": "Godly",
-        "PctChange": "+4.8%",
-        "Diff": "+250"
+        "Diff": "+250",
+        "PctChange": "+4.8%"
       },
       "Chroma Sunset": {
         "Value": "5,500",
@@ -1708,8 +1708,8 @@
         "Rarity": "5",
         "Origin": "Summer 2025 (Tier 25)",
         "Class": "Godly",
-        "PctChange": "-4.3%",
-        "Diff": "-250"
+        "Diff": "-250",
+        "PctChange": "-4.3%"
       },
       "Chroma Emberbow": {
         "Value": "5,500",
@@ -1719,8 +1719,8 @@
         "Rarity": "5",
         "Origin": "Halloween 2026 (Tier 30)",
         "Class": "Ancient",
-        "PctChange": "-8.3%",
-        "Diff": "-500"
+        "Diff": "-500",
+        "PctChange": "-8.3%"
       },
       "Chroma Snowstorm": {
         "Value": "4,250",
@@ -1729,8 +1729,8 @@
         "Rarity": "5",
         "Origin": "Christmas 2025 (Item Pack)",
         "Class": "Godly",
-        "PctChange": "+1.2%",
-        "Diff": "+50"
+        "Diff": "+50",
+        "PctChange": "+1.2%"
       },
       "Chroma Heart Wand": {
         "Value": "3,500",
@@ -1739,8 +1739,8 @@
         "Rarity": "4",
         "Origin": "Valentine's 2026 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-2.8%",
-        "Diff": "-100"
+        "Diff": "-100",
+        "PctChange": "-2.8%"
       },
       "Chroma Snow Dagger": {
         "Value": "2,350",
@@ -1749,8 +1749,8 @@
         "Rarity": "4",
         "Origin": "Christmas 2025 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-4.1%",
-        "Diff": "-100"
+        "Diff": "-100",
+        "PctChange": "-4.1%"
       },
       "Chroma Watergun": {
         "Value": "2,300",
@@ -1759,8 +1759,8 @@
         "Rarity": "5",
         "Origin": "Summer 2024 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-2.1%",
-        "Diff": "-50"
+        "Diff": "-50",
+        "PctChange": "-2.1%"
       },
       "Chroma Ornament": {
         "Value": "1,825",
@@ -1769,8 +1769,8 @@
         "Rarity": "4",
         "Origin": "Christmas 2025 (Gifting)",
         "Class": "Godly",
-        "PctChange": "+1.4%",
-        "Diff": "+25"
+        "Diff": "+25",
+        "PctChange": "+1.4%"
       },
       "Chroma Embersickle": {
         "Value": "1,800",
@@ -1780,8 +1780,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2026 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-2.7%",
-        "Diff": "-50"
+        "Diff": "-50",
+        "PctChange": "-2.7%"
       },
       "Chroma Treat": {
         "Value": "1,775",
@@ -1790,8 +1790,8 @@
         "Rarity": "4",
         "Origin": "Valentine's 2026 (Item Pack)",
         "Class": "Godly",
-        "PctChange": "-4.1%",
-        "Diff": "-75"
+        "Diff": "-75",
+        "PctChange": "-4.1%"
       },
       "Chroma Sweet": {
         "Value": "1,725",
@@ -1800,8 +1800,8 @@
         "Rarity": "4",
         "Origin": "Valentine's 2026 (Item Pack)",
         "Class": "Godly",
-        "PctChange": "-1.4%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-1.4%"
       },
       "Chroma Immortal": {
         "Value": "1,600",
@@ -1810,8 +1810,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2026 (Item Pack)",
         "Class": "Godly",
-        "PctChange": "+0.0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "+0.0%"
       },
       "Chroma Mortal": {
         "Value": "1,600",
@@ -1820,8 +1820,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2026 (Item Pack)",
         "Class": "Godly",
-        "PctChange": "+0.0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "+0.0%"
       },
       "Chroma Icecream": {
         "Value": "1,525",
@@ -1831,8 +1831,8 @@
         "Rarity": "4",
         "Origin": "Summer 2026 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-1.6%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-1.6%"
       },
       "Chroma Sands": {
         "Value": "850",
@@ -1841,8 +1841,8 @@
         "Rarity": "4",
         "Origin": "Summer 2026 (Item Pack)",
         "Class": "Godly",
-        "PctChange": "-2.9%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-2.9%"
       },
       "Chroma Beachy": {
         "Value": "800",
@@ -1851,8 +1851,8 @@
         "Rarity": "4",
         "Origin": "Summer 2026 (Item Pack)",
         "Class": "Godly",
-        "PctChange": "-3.0%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-3.0%"
       },
       "Chroma Darkbringer": {
         "Value": "65",
@@ -1861,8 +1861,8 @@
         "Rarity": "2",
         "Origin": "Mystery Crate #2",
         "Class": "Godly",
-        "PctChange": "-7.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-7.1%"
       },
       "Chroma Lightbringer": {
         "Value": "60",
@@ -1871,8 +1871,8 @@
         "Rarity": "2",
         "Origin": "Mystery Crate #2",
         "Class": "Godly",
-        "PctChange": "-7.7%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-7.7%"
       },
       "Chroma Luger": {
         "Value": "50",
@@ -1881,8 +1881,8 @@
         "Rarity": "2",
         "Origin": "Gun Box #1",
         "Class": "Godly",
-        "PctChange": "-3.8%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-3.8%"
       },
       "Chroma Candleflame": {
         "Value": "40",
@@ -1891,8 +1891,8 @@
         "Rarity": "2",
         "Origin": "Halloween 2021 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-4.8%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-4.8%"
       },
       "Chroma Laser": {
         "Value": "40",
@@ -1901,8 +1901,8 @@
         "Rarity": "2",
         "Origin": "Gun Box #3",
         "Class": "Godly",
-        "PctChange": "-4.8%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-4.8%"
       },
       "Chroma Elderwood Blade": {
         "Value": "37",
@@ -1911,8 +1911,8 @@
         "Rarity": "2",
         "Origin": "Halloween 2022 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-2.6%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-2.6%"
       },
       "Chroma Swirly Gun": {
         "Value": "35",
@@ -1921,8 +1921,8 @@
         "Rarity": "2",
         "Origin": "Christmas 2021 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-7.9%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-7.9%"
       },
       "Chroma Deathshard": {
         "Value": "33",
@@ -1931,8 +1931,8 @@
         "Rarity": "2",
         "Origin": "Knife Box #1",
         "Class": "Godly",
-        "PctChange": "-5.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-5.7%"
       },
       "Chroma Cookiecane": {
         "Value": "32",
@@ -1941,8 +1941,8 @@
         "Rarity": "2",
         "Origin": "Christmas 2022 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-3.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-3.0%"
       },
       "Chroma Fang": {
         "Value": "32",
@@ -1951,8 +1951,8 @@
         "Rarity": "2",
         "Origin": "Knife Box #2",
         "Class": "Godly",
-        "PctChange": "-8.6%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-8.6%"
       },
       "Chroma Gemstone": {
         "Value": "32",
@@ -1961,8 +1961,8 @@
         "Rarity": "2",
         "Origin": "Mystery Crate #1",
         "Class": "Godly",
-        "PctChange": "-8.6%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-8.6%"
       },
       "Chroma Shark": {
         "Value": "32",
@@ -1971,8 +1971,8 @@
         "Rarity": "2",
         "Origin": "Gun Box #2",
         "Class": "Godly",
-        "PctChange": "-8.6%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-8.6%"
       },
       "Chroma Slasher": {
         "Value": "30",
@@ -1981,8 +1981,8 @@
         "Rarity": "2",
         "Origin": "Knife Box #4",
         "Class": "Godly",
-        "PctChange": "-6.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-6.3%"
       },
       "Chroma Heat": {
         "Value": "28",
@@ -1991,8 +1991,8 @@
         "Rarity": "2",
         "Origin": "Rainbow Box",
         "Class": "Godly",
-        "PctChange": "-6.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-6.7%"
       },
       "Chroma Seer": {
         "Value": "27",
@@ -2001,8 +2001,8 @@
         "Rarity": "2",
         "Origin": "Season 1 Crafting",
         "Class": "Godly",
-        "PctChange": "-3.6%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-3.6%"
       },
       "Chroma Tides": {
         "Value": "27",
@@ -2011,8 +2011,8 @@
         "Rarity": "2",
         "Origin": "Knife Box #5",
         "Class": "Godly",
-        "PctChange": "-3.6%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-3.6%"
       },
       "Chroma Gingerblade": {
         "Value": "25",
@@ -2021,8 +2021,8 @@
         "Rarity": "2",
         "Origin": "Christmas 2018 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-7.4%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-7.4%"
       },
       "Chroma Saw": {
         "Value": "23",
@@ -2031,8 +2031,8 @@
         "Rarity": "2",
         "Origin": "Knife Box #3",
         "Class": "Godly",
-        "PctChange": "-8.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-8.0%"
       },
       "Chroma Boneblade": {
         "Value": "22",
@@ -2041,8 +2041,8 @@
         "Rarity": "2",
         "Origin": "Halloween 2018 (Unboxed)",
         "Class": "Godly",
-        "PctChange": "-12.0%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-12.0%"
       },
       "Chroma Fire Bat": {
         "Value": "3",
@@ -2052,8 +2052,8 @@
         "Rarity": "2",
         "Origin": "Season 1 Pet Egg",
         "Class": "Godly",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Chroma Fire Bear": {
         "Value": "3",
@@ -2063,8 +2063,8 @@
         "Rarity": "2",
         "Origin": "Season 1 Pet Egg",
         "Class": "Godly",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Chroma Fire Bunny": {
         "Value": "3",
@@ -2074,8 +2074,8 @@
         "Rarity": "2",
         "Origin": "Season 1 Pet Egg",
         "Class": "Godly",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Chroma Fire Cat": {
         "Value": "3",
@@ -2085,8 +2085,8 @@
         "Rarity": "2",
         "Origin": "Season 1 Pet Egg",
         "Class": "Godly",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Chroma Fire Dog": {
         "Value": "3",
@@ -2096,8 +2096,8 @@
         "Rarity": "2",
         "Origin": "Season 1 Pet Egg",
         "Class": "Godly",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Chroma Fire Fox": {
         "Value": "3",
@@ -2107,8 +2107,8 @@
         "Rarity": "2",
         "Origin": "Season 1 Pet Egg",
         "Class": "Godly",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Chroma Fire Pig": {
         "Value": "3",
@@ -2118,8 +2118,8 @@
         "Rarity": "2",
         "Origin": "Season 1 Pet Egg",
         "Class": "Godly",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       }
     },
     "Godlies": {
@@ -2130,8 +2130,8 @@
         "Demand": "5",
         "Rarity": "5",
         "Origin": "Halloween 2023 (Unboxed)",
-        "PctChange": "-2.2%",
-        "Diff": "-100"
+        "Diff": "-100",
+        "PctChange": "-2.2%"
       },
       "Evergun": {
         "Value": "3,550",
@@ -2140,8 +2140,8 @@
         "Demand": "6",
         "Rarity": "4",
         "Origin": "Christmas 2023 (Gifting 100 Gifts)",
-        "PctChange": "+1.4%",
-        "Diff": "+50"
+        "Diff": "+50",
+        "PctChange": "+1.4%"
       },
       "Evergreen": {
         "Value": "2,850",
@@ -2150,8 +2150,8 @@
         "Demand": "6",
         "Rarity": "4",
         "Origin": "Christmas 2023 (Unboxed)",
-        "PctChange": "+2.7%",
-        "Diff": "+75"
+        "Diff": "+75",
+        "PctChange": "+2.7%"
       },
       "Constellation": {
         "Value": "2,500",
@@ -2159,8 +2159,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Christmas 2024 (Unboxed)",
-        "PctChange": "-2.0%",
-        "Diff": "-50"
+        "Diff": "-50",
+        "PctChange": "-2.0%"
       },
       "Turkey": {
         "Value": "1,950",
@@ -2168,8 +2168,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Thanksgiving 2023 (Item Pack)",
-        "PctChange": "+1.3%",
-        "Diff": "+25"
+        "Diff": "+25",
+        "PctChange": "+1.3%"
       },
       "Alienbeam": {
         "Value": "1,875",
@@ -2177,8 +2177,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Halloween 2025 (Unboxed)",
-        "PctChange": "-1.3%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-1.3%"
       },
       "Vampire's Gun": {
         "Value": "1,850",
@@ -2186,8 +2186,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Halloween 2024 (Unboxed)",
-        "PctChange": "-1.3%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-1.3%"
       },
       "Raygun": {
         "Value": "1,850",
@@ -2195,8 +2195,8 @@
         "Demand": "5",
         "Rarity": "3",
         "Origin": "Halloween 2025 (Tier 25)",
-        "PctChange": "-1.3%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-1.3%"
       },
       "Darkshot": {
         "Value": "1,450",
@@ -2204,8 +2204,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Halloween 2023 (Item Pack)",
-        "PctChange": "-1.7%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-1.7%"
       },
       "Darksword": {
         "Value": "1,425",
@@ -2213,8 +2213,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Halloween 2023 (Item Pack)",
-        "PctChange": "-1.7%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-1.7%"
       },
       "Blossom": {
         "Value": "1,160",
@@ -2222,8 +2222,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Valentine's 2023 (Item Pack)",
-        "PctChange": "-0.9%",
-        "Diff": "-10"
+        "Diff": "-10",
+        "PctChange": "-0.9%"
       },
       "Sakura": {
         "Value": "1,150",
@@ -2231,8 +2231,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Valentine's 2023 (Item Pack)",
-        "PctChange": "-0.9%",
-        "Diff": "-10"
+        "Diff": "-10",
+        "PctChange": "-0.9%"
       },
       "Snowcannon": {
         "Value": "900",
@@ -2240,8 +2240,8 @@
         "Demand": "5",
         "Rarity": "3",
         "Origin": "Christmas 2025 (Tier 30)",
-        "PctChange": "+2.9%",
-        "Diff": "+25"
+        "Diff": "+25",
+        "PctChange": "+2.9%"
       },
       "Sunrise": {
         "Value": "800",
@@ -2249,8 +2249,8 @@
         "Demand": "5",
         "Rarity": "4",
         "Origin": "Summer 2025 (Unboxed)",
-        "PctChange": "-3.0%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-3.0%"
       },
       "Bauble": {
         "Value": "775",
@@ -2259,8 +2259,8 @@
         "Demand": "6",
         "Rarity": "4",
         "Origin": "Christmas 2024 (Gifting 100 Gifts)",
-        "PctChange": "+6.9%",
-        "Diff": "+50"
+        "Diff": "+50",
+        "PctChange": "+6.9%"
       },
       "Sunset": {
         "Value": "650",
@@ -2268,8 +2268,8 @@
         "Demand": "5",
         "Rarity": "3",
         "Origin": "Summer 2025 (Tier 25)",
-        "PctChange": "-3.7%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-3.7%"
       },
       "Soul": {
         "Value": "480",
@@ -2277,8 +2277,8 @@
         "Demand": "5",
         "Rarity": "3",
         "Origin": "Halloween 2024 (Item Pack)",
-        "PctChange": "-2.0%",
-        "Diff": "-10"
+        "Diff": "-10",
+        "PctChange": "-2.0%"
       },
       "Spirit": {
         "Value": "470",
@@ -2286,8 +2286,8 @@
         "Demand": "5",
         "Rarity": "3",
         "Origin": "Halloween 2024 (Item Pack)",
-        "PctChange": "-2.1%",
-        "Diff": "-10"
+        "Diff": "-10",
+        "PctChange": "-2.1%"
       },
       "Rainbow Gun": {
         "Value": "405",
@@ -2295,8 +2295,8 @@
         "Demand": "4",
         "Rarity": "3",
         "Origin": "Easter 2023 (Item Pack)",
-        "PctChange": "-1.2%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-1.2%"
       },
       "Flora": {
         "Value": "400",
@@ -2304,8 +2304,8 @@
         "Demand": "4",
         "Rarity": "3",
         "Origin": "Easter 2025 (Item Pack)",
-        "PctChange": "-1.2%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-1.2%"
       },
       "Rainbow": {
         "Value": "400",
@@ -2313,8 +2313,8 @@
         "Demand": "4",
         "Rarity": "3",
         "Origin": "Easter 2023 (Item Pack)",
-        "PctChange": "-1.2%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-1.2%"
       },
       "Xenoknife": {
         "Value": "400",
@@ -2322,8 +2322,8 @@
         "Demand": "4",
         "Rarity": "3",
         "Origin": "Halloween 2025 (Item Pack)",
-        "PctChange": "-2.4%",
-        "Diff": "-10"
+        "Diff": "-10",
+        "PctChange": "-2.4%"
       },
       "Xenoshot": {
         "Value": "400",
@@ -2331,8 +2331,8 @@
         "Demand": "4",
         "Rarity": "3",
         "Origin": "Halloween 2025 (Item Pack)",
-        "PctChange": "-2.4%",
-        "Diff": "-10"
+        "Diff": "-10",
+        "PctChange": "-2.4%"
       },
       "Bloom": {
         "Value": "395",
@@ -2340,8 +2340,8 @@
         "Demand": "4",
         "Rarity": "3",
         "Origin": "Easter 2025 (Item Pack)",
-        "PctChange": "-1.3%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-1.3%"
       },
       "Batwing": {
         "Value": "1,000,000",
@@ -2349,8 +2349,8 @@
         "Demand": "10",
         "Rarity": "10",
         "Origin": "Secret MM2 Item",
-        "PctChange": "+0.0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "+0.0%"
       },
       "Black Luger": {
         "Value": "1,000,000",
@@ -2358,8 +2358,8 @@
         "Demand": "10",
         "Rarity": "10",
         "Origin": "Secret MM2 Item",
-        "PctChange": "+0.0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "+0.0%"
       },
       "Heart Wand": {
         "Value": "340",
@@ -2367,8 +2367,8 @@
         "Demand": "4",
         "Rarity": "3",
         "Origin": "Valentine's 2026 (Unboxed)",
-        "PctChange": "+3.0%",
-        "Diff": "+10"
+        "Diff": "+10",
+        "PctChange": "+3.0%"
       },
       "Blizzard": {
         "Value": "250",
@@ -2376,8 +2376,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Christmas 2025 (Item Pack)",
-        "PctChange": "-2.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-2.0%"
       },
       "Snowstorm": {
         "Value": "250",
@@ -2385,8 +2385,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Christmas 2025 (Item Pack)",
-        "PctChange": "-2.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-2.0%"
       },
       "Flowerwood Gun": {
         "Value": "240",
@@ -2394,8 +2394,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Easter 2024 (Item Pack)",
-        "PctChange": "-2.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-2.0%"
       },
       "Ocean": {
         "Value": "240",
@@ -2403,8 +2403,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Summer 2023 (Item Pack)",
-        "PctChange": "-2.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-2.0%"
       },
       "Flowerwood": {
         "Value": "235",
@@ -2412,8 +2412,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Easter 2024 (Item Pack)",
-        "PctChange": "-2.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-2.1%"
       },
       "Waves": {
         "Value": "235",
@@ -2421,8 +2421,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Summer 2023 (Item Pack)",
-        "PctChange": "-2.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-2.1%"
       },
       "Snow Dagger": {
         "Value": "165",
@@ -2430,8 +2430,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Christmas 2025 (Unboxed)",
-        "PctChange": "-2.9%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-2.9%"
       },
       "Treat": {
         "Value": "155",
@@ -2439,8 +2439,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Valentine's 2026 (Item Pack)",
-        "PctChange": "-3.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-3.1%"
       },
       "Bat": {
         "Value": "155",
@@ -2448,8 +2448,8 @@
         "Demand": "3",
         "Rarity": "2",
         "Origin": "Halloween 2022 (Zombie, Tier 20)",
-        "PctChange": "+3.3%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+3.3%"
       },
       "Sweet": {
         "Value": "150",
@@ -2457,8 +2457,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Valentine's 2026 (Item Pack)",
-        "PctChange": "-3.2%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-3.2%"
       },
       "Embersickle": {
         "Value": "130",
@@ -2467,8 +2467,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Halloween 2026 (Unboxed)",
-        "PctChange": "-3.7%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-3.7%"
       },
       "Borealis": {
         "Value": "130",
@@ -2476,8 +2476,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2024 (Item Pack)",
-        "PctChange": "-3.7%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-3.7%"
       },
       "Icecream": {
         "Value": "130",
@@ -2485,8 +2485,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Summer 2026 (Unboxed)",
-        "PctChange": "-3.7%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-3.7%"
       },
       "Watergun": {
         "Value": "130",
@@ -2494,8 +2494,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Summer 2024 (Unboxed)",
-        "PctChange": "-3.7%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-3.7%"
       },
       "Australis": {
         "Value": "125",
@@ -2503,8 +2503,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2024 (Item Pack)",
-        "PctChange": "-3.8%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-3.8%"
       },
       "Immortal": {
         "Value": "120",
@@ -2513,8 +2513,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2026 (Item Pack)",
-        "PctChange": "-4.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-4.0%"
       },
       "Mortal": {
         "Value": "120",
@@ -2523,8 +2523,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2026 (Item Pack)",
-        "PctChange": "-4.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-4.0%"
       },
       "Candy": {
         "Value": "90",
@@ -2532,8 +2532,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Christmas 2015 (Unboxed)",
-        "PctChange": "+5.9%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+5.9%"
       },
       "Pearlshine": {
         "Value": "80",
@@ -2541,8 +2541,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Summer 2024 (Item Pack)",
-        "PctChange": "-5.9%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-5.9%"
       },
       "Pearl": {
         "Value": "75",
@@ -2550,8 +2550,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Summer 2024 (Item Pack)",
-        "PctChange": "-6.3%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-6.3%"
       },
       "Beachy": {
         "Value": "65",
@@ -2559,8 +2559,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Summer 2026 (Item Pack)",
-        "PctChange": "-7.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-7.1%"
       },
       "Heartblade": {
         "Value": "65",
@@ -2568,8 +2568,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Valentine's 2021 (Item Pack)",
-        "PctChange": "-3.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-3.0%"
       },
       "Ornament": {
         "Value": "65",
@@ -2577,8 +2577,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2025 (Gifting 100 Gifts)",
-        "PctChange": "-7.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-7.1%"
       },
       "Sands": {
         "Value": "65",
@@ -2586,8 +2586,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Summer 2026 (Item Pack)",
-        "PctChange": "-7.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-7.1%"
       },
       "Red Luger": {
         "Value": "35",
@@ -2595,8 +2595,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2015 (Crafting)",
-        "PctChange": "-5.4%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-5.4%"
       },
       "Darkbringer": {
         "Value": "32",
@@ -2604,8 +2604,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Mystery Crate #2",
-        "PctChange": "-3.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-3.0%"
       },
       "Elderwood Revolver": {
         "Value": "32",
@@ -2613,8 +2613,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "-3.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-3.0%"
       },
       "Iceblaster": {
         "Value": "32",
@@ -2622,8 +2622,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2020 (Unboxed)",
-        "PctChange": "-3.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-3.0%"
       },
       "Lightbringer": {
         "Value": "32",
@@ -2631,8 +2631,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Mystery Crate #2",
-        "PctChange": "-3.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-3.0%"
       },
       "Phantom": {
         "Value": "32",
@@ -2640,8 +2640,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2022 (Item Pack)",
-        "PctChange": "-8.6%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-8.6%"
       },
       "Spectre": {
         "Value": "32",
@@ -2649,8 +2649,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2022 (Item Pack)",
-        "PctChange": "-8.6%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-8.6%"
       },
       "Candleflame": {
         "Value": "30",
@@ -2658,8 +2658,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2021 (Unboxed)",
-        "PctChange": "-9.1%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-9.1%"
       },
       "Elderwood Blade": {
         "Value": "30",
@@ -2667,8 +2667,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2022 (Unboxed)",
-        "PctChange": "-9.1%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-9.1%"
       },
       "Makeshift": {
         "Value": "30",
@@ -2676,8 +2676,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2022 (Survivor)",
-        "PctChange": "-9.1%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-9.1%"
       },
       "Sugar": {
         "Value": "30",
@@ -2685,8 +2685,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2015 (Unboxed)",
-        "PctChange": "-6.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-6.3%"
       },
       "Green Luger": {
         "Value": "23",
@@ -2694,8 +2694,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2015 (Crafting)",
-        "PctChange": "-8.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-8.0%"
       },
       "Amerilaser": {
         "Value": "22",
@@ -2703,8 +2703,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "American Item Pack",
-        "PctChange": "-4.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-4.3%"
       },
       "Laser": {
         "Value": "22",
@@ -2712,8 +2712,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Gun Box #3",
-        "PctChange": "-4.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-4.3%"
       },
       "Hallowgun": {
         "Value": "20",
@@ -2721,8 +2721,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2020 (Unboxed)",
-        "PctChange": "-9.1%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-9.1%"
       },
       "Luger": {
         "Value": "20",
@@ -2730,8 +2730,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Gun Box #1",
-        "PctChange": "+11.1%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+11.1%"
       },
       "Nightblade": {
         "Value": "20",
@@ -2739,8 +2739,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Shadow Item Pack",
-        "PctChange": "-9.1%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-9.1%"
       },
       "Shark": {
         "Value": "20",
@@ -2748,8 +2748,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Gun Box #2",
-        "PctChange": "-13.0%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-13.0%"
       },
       "Icebeam": {
         "Value": "18",
@@ -2757,8 +2757,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2021 (Item Pack)",
-        "PctChange": "-10.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-10.0%"
       },
       "Plasmabeam": {
         "Value": "18",
@@ -2766,8 +2766,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Plasma Bundle",
-        "PctChange": "-18.2%",
-        "Diff": "-4"
+        "Diff": "-4",
+        "PctChange": "-18.2%"
       },
       "Swirly Gun": {
         "Value": "18",
@@ -2775,8 +2775,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2021 (Unboxed)",
-        "PctChange": "-10.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-10.0%"
       },
       "Battleaxe II": {
         "Value": "17",
@@ -2784,8 +2784,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2018 (Tier 100)",
-        "PctChange": "-5.6%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-5.6%"
       },
       "Blaster": {
         "Value": "17",
@@ -2793,8 +2793,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Futuristic Item Pack",
-        "PctChange": "-5.6%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-5.6%"
       },
       "Ginger Luger": {
         "Value": "17",
@@ -2802,8 +2802,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2018 (Crafting)",
-        "PctChange": "-15.0%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-15.0%"
       },
       "Pixel": {
         "Value": "17",
@@ -2811,8 +2811,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "8-Bit Item Pack",
-        "PctChange": "-15.0%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-15.0%"
       },
       "Gemstone": {
         "Value": "15",
@@ -2820,8 +2820,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Mystery Box #1",
-        "PctChange": "-11.8%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-11.8%"
       },
       "Iceflake": {
         "Value": "15",
@@ -2829,8 +2829,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2021 (Item Pack)",
-        "PctChange": "-11.8%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-11.8%"
       },
       "Old Glory": {
         "Value": "15",
@@ -2838,8 +2838,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "American Item Pack",
-        "PctChange": "-11.8%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-11.8%"
       },
       "Plasmablade": {
         "Value": "15",
@@ -2847,8 +2847,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Plasma Bundle",
-        "PctChange": "-11.8%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-11.8%"
       },
       "Slasher": {
         "Value": "15",
@@ -2856,8 +2856,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Knife Box #4",
-        "PctChange": "-11.8%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-11.8%"
       },
       "Vampire's Edge": {
         "Value": "15",
@@ -2865,8 +2865,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2020 (Item Pack)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Deathshard": {
         "Value": "13",
@@ -2874,8 +2874,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Knife Box #1",
-        "PctChange": "-13.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-13.3%"
       },
       "Eternalcane": {
         "Value": "13",
@@ -2883,8 +2883,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM2 Shop Promo",
-        "PctChange": "-13.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-13.3%"
       },
       "Gingerblade": {
         "Value": "13",
@@ -2892,8 +2892,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2018 (Unboxed)",
-        "PctChange": "-13.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-13.3%"
       },
       "Jinglegun": {
         "Value": "13",
@@ -2901,8 +2901,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2020 (Gifting 100 Gifts)",
-        "PctChange": "-13.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-13.3%"
       },
       "Lugercane": {
         "Value": "13",
@@ -2910,8 +2910,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2019 (Gifting 100 Gifts)",
-        "PctChange": "-13.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-13.3%"
       },
       "Minty": {
         "Value": "13",
@@ -2919,8 +2919,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2019 (Unboxed)",
-        "PctChange": "-13.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-13.3%"
       },
       "Nebula": {
         "Value": "13",
@@ -2928,8 +2928,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Nebula Item Pack",
-        "PctChange": "-13.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-13.3%"
       },
       "Virtual": {
         "Value": "13",
@@ -2937,8 +2937,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Futuristic Item Pack",
-        "PctChange": "-13.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-13.3%"
       },
       "Battleaxe": {
         "Value": "12",
@@ -2946,8 +2946,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2017 (Item Pack)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Cookiecane": {
         "Value": "12",
@@ -2955,8 +2955,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2022 (Unboxed)",
-        "PctChange": "-7.7%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-7.7%"
       },
       "Gingermint": {
         "Value": "12",
@@ -2964,8 +2964,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2022 (Gifting 100 Gifts)",
-        "PctChange": "-7.7%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-7.7%"
       },
       "Swirly Blade": {
         "Value": "12",
@@ -2973,8 +2973,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2021 (Gifting 100 Gifts)",
-        "PctChange": "-7.7%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-7.7%"
       },
       "Chill": {
         "Value": "10",
@@ -2982,8 +2982,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2015 (Crafting)",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Clockwork": {
         "Value": "10",
@@ -2991,8 +2991,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Steampunk Item Pack",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Fang": {
         "Value": "10",
@@ -3000,8 +3000,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Knife Box #2",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Frostsaber": {
         "Value": "10",
@@ -3009,8 +3009,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2017 (Bought)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Heat": {
         "Value": "10",
@@ -3018,8 +3018,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Rainbow Box",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Spider": {
         "Value": "10",
@@ -3027,8 +3027,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2015 (Bingo Challenge)",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Tides": {
         "Value": "10",
@@ -3036,8 +3036,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Knife Box #5",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Bioblade": {
         "Value": "8",
@@ -3045,8 +3045,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Bioblade Item Pack",
-        "PctChange": "-20.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-20.0%"
       },
       "Eternal III": {
         "Value": "8",
@@ -3054,8 +3054,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM2 Shop Promo",
-        "PctChange": "-20.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-20.0%"
       },
       "Eternal IV": {
         "Value": "8",
@@ -3063,8 +3063,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM2 Shop Promo",
-        "PctChange": "-20.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-20.0%"
       },
       "Hallow's Blade": {
         "Value": "8",
@@ -3072,8 +3072,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2017 (Bought)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Hallow's Edge": {
         "Value": "8",
@@ -3081,8 +3081,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2016 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Handsaw": {
         "Value": "8",
@@ -3090,8 +3090,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2015 (Crafting)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Boneblade": {
         "Value": "7",
@@ -3099,8 +3099,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Eternal": {
         "Value": "7",
@@ -3108,8 +3108,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM2 Shop Promo",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "Eternal II": {
         "Value": "7",
@@ -3117,8 +3117,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM2 Shop Promo",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "Frostbite": {
         "Value": "7",
@@ -3126,8 +3126,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2019 (Item Pack)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Ghostblade": {
         "Value": "7",
@@ -3135,8 +3135,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2019 (Item Pack)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Ice Dragon": {
         "Value": "7",
@@ -3144,8 +3144,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2016 (Bought)",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "Ice Shard": {
         "Value": "7",
@@ -3153,8 +3153,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2017 (Item Pack)",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "Prismatic": {
         "Value": "7",
@@ -3162,8 +3162,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Prismatic Item Pack",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Pumpking": {
         "Value": "7",
@@ -3171,8 +3171,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "Saw": {
         "Value": "7",
@@ -3180,8 +3180,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Knife Box #3",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Xmas": {
         "Value": "7",
@@ -3189,8 +3189,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2015 (Bought)",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "Eggblade": {
         "Value": "5",
@@ -3198,8 +3198,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Easter 2021 (Item Pack)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Flames": {
         "Value": "5",
@@ -3207,8 +3207,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM2 Classic (Crafting)",
-        "PctChange": "-28.6%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-28.6%"
       },
       "Snowflake": {
         "Value": "5",
@@ -3216,8 +3216,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2017 (Bought)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Winter's Edge": {
         "Value": "5",
@@ -3225,8 +3225,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2017 (Unboxed)",
-        "PctChange": "-28.6%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-28.6%"
       },
       "Peppermint": {
         "Value": "4",
@@ -3234,8 +3234,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2020 (Item Pack)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Cookieblade": {
         "Value": "3",
@@ -3243,8 +3243,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2020 (Item Pack)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Blue Seer": {
         "Value": "3",
@@ -3252,8 +3252,8 @@
         "Demand": "1",
         "Rarity": "1",
         "Origin": "Season 1 (Crafting)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Purple Seer": {
         "Value": "3",
@@ -3261,8 +3261,8 @@
         "Demand": "1",
         "Rarity": "1",
         "Origin": "Season 1 (Crafting)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Red Seer": {
         "Value": "3",
@@ -3270,8 +3270,8 @@
         "Demand": "1",
         "Rarity": "1",
         "Origin": "Season 1 (Crafting)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Seer": {
         "Value": "3",
@@ -3279,8 +3279,8 @@
         "Demand": "1",
         "Rarity": "1",
         "Origin": "Crafting",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Orange Seer": {
         "Value": "2",
@@ -3288,8 +3288,8 @@
         "Demand": "1",
         "Rarity": "1",
         "Origin": "Season 1 (Crafting)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Yellow Seer": {
         "Value": "2",
@@ -3297,8 +3297,8 @@
         "Demand": "1",
         "Rarity": "1",
         "Origin": "Season 1 (Crafting)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       }
     },
     "Legendaries": {
@@ -3308,8 +3308,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Thanksgiving 2023 (Item Pack)",
-        "PctChange": "-3.4%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-3.4%"
       },
       "Latte (Knife)": {
         "Value": "140",
@@ -3317,8 +3317,8 @@
         "Demand": "3",
         "Rarity": "3",
         "Origin": "Thanksgiving 2023 (Item Pack)",
-        "PctChange": "-3.4%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-3.4%"
       },
       "Spectral (Knife)": {
         "Value": "50",
@@ -3326,8 +3326,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2021 (Tier 29)",
-        "PctChange": "-9.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-9.1%"
       },
       "Traveler (Gun)": {
         "Value": "50",
@@ -3335,8 +3335,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2023 (Tier 29)",
-        "PctChange": "-9.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-9.1%"
       },
       "Aurora (Gun)": {
         "Value": "45",
@@ -3344,8 +3344,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2021 (Tier 19)",
-        "PctChange": "-10.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-10.0%"
       },
       "Vampire (Gun)": {
         "Value": "45",
@@ -3353,8 +3353,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2022 (Tier 19)",
-        "PctChange": "-10.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-10.0%"
       },
       "Beach": {
         "Value": "35",
@@ -3362,8 +3362,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Summer 2023 (Tier 12)",
-        "PctChange": "+16.7%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+16.7%"
       },
       "Cotton Candy": {
         "Value": "35",
@@ -3371,8 +3371,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Candy Tycoon Promo",
-        "PctChange": "-7.9%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-7.9%"
       },
       "JD": {
         "Value": "27",
@@ -3380,8 +3380,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "JD Giveaway",
-        "PctChange": "-3.6%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-3.6%"
       },
       "Bunnies": {
         "Value": "15",
@@ -3389,8 +3389,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Easter 2025 (Tier 6)",
-        "PctChange": "+15.4%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+15.4%"
       },
       "Arctic (Gun)": {
         "Value": "10",
@@ -3398,8 +3398,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2022 (Tier 19)",
-        "PctChange": "+42.9%",
-        "Diff": "+3"
+        "Diff": "+3",
+        "PctChange": "+42.9%"
       },
       "Golden": {
         "Value": "10",
@@ -3407,8 +3407,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Retro Item Bundle (2026)",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Shadow": {
         "Value": "10",
@@ -3416,8 +3416,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Retro Item Bundle (2026)",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Cavern (Knife)": {
         "Value": "7",
@@ -3425,8 +3425,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2019 (Tier 29)",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "Broken": {
         "Value": "7",
@@ -3434,8 +3434,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Valentine's 2023 (Tier 5)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Icedriller": {
         "Value": "5",
@@ -3443,8 +3443,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Christmas 2020 (Tier 19)",
-        "PctChange": "-28.6%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-28.6%"
       },
       "Nightsky": {
         "Value": "5",
@@ -3452,8 +3452,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Christmas 2024 (Tier 19)",
-        "PctChange": "+25.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+25.0%"
       },
       "Ghost (Knife)": {
         "Value": "5",
@@ -3461,8 +3461,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Tier 50)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Ginger (Gun)": {
         "Value": "5",
@@ -3470,8 +3470,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2018 (Tier 50)",
-        "PctChange": "-16.7%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-16.7%"
       },
       "Aurora (Knife)": {
         "Value": "3",
@@ -3479,8 +3479,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Christmas 2021 (Unboxed)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Emberknife": {
         "Value": "3",
@@ -3488,8 +3488,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Halloween 2026 (Tier 29)",
-        "PctChange": "-40.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-40.0%"
       },
       "Spectral (Gun)": {
         "Value": "3",
@@ -3497,8 +3497,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Halloween 2021 (Unboxed)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Traveler (Knife)": {
         "Value": "3",
@@ -3506,8 +3506,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Halloween 2023 (Unboxed)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Vampire (Knife)": {
         "Value": "3",
@@ -3515,8 +3515,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Halloween 2022 (Unboxed)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Witched": {
         "Value": "3",
@@ -3524,8 +3524,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Halloween 2019 (Tier 35)",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Blue Elite": {
         "Value": "3",
@@ -3533,8 +3533,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2017 (Buying Elite Gamepass)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Green Elite": {
         "Value": "3",
@@ -3542,8 +3542,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2015 (Buying Elite Gamepass)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Red Scratch": {
         "Value": "3",
@@ -3551,8 +3551,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2016 (Unboxed)",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Santa's Magic": {
         "Value": "3",
@@ -3560,8 +3560,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2019 (Santa's Challenge)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Santa's Spirit": {
         "Value": "3",
@@ -3569,8 +3569,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2020 (Santa's Challenge)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Skulls": {
         "Value": "3",
@@ -3578,8 +3578,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Energized (Gun)": {
         "Value": "2",
@@ -3587,8 +3587,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Halloween 2025 (Tier 23)",
-        "PctChange": "+100.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+100.0%"
       },
       "Frostfade (Knife)": {
         "Value": "2",
@@ -3596,8 +3596,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Christmas 2023 (Tier 19)",
-        "PctChange": "+100.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+100.0%"
       },
       "Blue Scratch": {
         "Value": "2",
@@ -3605,8 +3605,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Ghost (Gun)": {
         "Value": "2",
@@ -3614,8 +3614,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Chromatic (Knife)": {
         "Value": "1",
@@ -3623,8 +3623,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Easter 2023 (Egg Bingo)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Icecracker": {
         "Value": "1",
@@ -3632,8 +3632,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Christmas 2020 (Unboxed)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Red Fire": {
         "Value": "1",
@@ -3641,8 +3641,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2017 (Completing All Challenges)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Cavern (Gun)": {
         "Value": "1",
@@ -3650,8 +3650,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2019 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Arctic (Knife)": {
         "Value": "x4 T1 Legendaries",
@@ -3989,8 +3989,8 @@
         "Demand": "4",
         "Rarity": "5",
         "Origin": "Christmas 2018 (Tier 30)",
-        "PctChange": "-4.8%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-4.8%"
       },
       "Dungeon": {
         "Value": "110",
@@ -3998,8 +3998,8 @@
         "Demand": "2",
         "Rarity": "5",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "-4.3%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-4.3%"
       },
       "Darkknife": {
         "Value": "65",
@@ -4007,8 +4007,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2023 (Tier 25)",
-        "PctChange": "-7.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-7.1%"
       },
       "Silent Night (Knife)": {
         "Value": "50",
@@ -4016,8 +4016,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2020 (Tier 15)",
-        "PctChange": "-9.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-9.1%"
       },
       "Makeshift (Knife)": {
         "Value": "35",
@@ -4025,8 +4025,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2022 (Survivor, Tier 17)",
-        "PctChange": "-12.5%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-12.5%"
       },
       "Zombified": {
         "Value": "30",
@@ -4034,8 +4034,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2022 (Zombie, Tier 17)",
-        "PctChange": "-14.3%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-14.3%"
       },
       "Starry (Gun)": {
         "Value": "22",
@@ -4043,8 +4043,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2021 (Tier 17)",
-        "PctChange": "-12.0%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-12.0%"
       },
       "Swirl": {
         "Value": "20",
@@ -4052,8 +4052,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2021 (Tier 15)",
-        "PctChange": "-9.1%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-9.1%"
       },
       "Watcher (Gun)": {
         "Value": "20",
@@ -4061,8 +4061,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2021 (Tier 24)",
-        "PctChange": "-20.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-20.0%"
       },
       "Magma (Gun)": {
         "Value": "13",
@@ -4070,8 +4070,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2021 (Tier 20)",
-        "PctChange": "-13.3%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-13.3%"
       },
       "Silent Night (Gun)": {
         "Value": "12",
@@ -4079,8 +4079,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2020 (Unboxed)",
-        "PctChange": "-7.7%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-7.7%"
       },
       "Snowflakes": {
         "Value": "12",
@@ -4088,8 +4088,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2020 (Unboxed)",
-        "PctChange": "+20.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+20.0%"
       },
       "Cowboy": {
         "Value": "10",
@@ -4097,8 +4097,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Retro Item Bundle (2026)",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Floral (Knife)": {
         "Value": "10",
@@ -4106,8 +4106,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Summer 2023 (Tier 10)",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Ghostfire": {
         "Value": "10",
@@ -4115,8 +4115,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2022 (Tier 18)",
-        "PctChange": "+25.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+25.0%"
       },
       "Laser": {
         "Value": "10",
@@ -4124,8 +4124,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Retro Item Bundle (2026)",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Phaser": {
         "Value": "10",
@@ -4133,8 +4133,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Retro Item Bundle (2026)",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Prince": {
         "Value": "10",
@@ -4142,8 +4142,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Retro Item Bundle (2026)",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Ghastly (Gun)": {
         "Value": "7",
@@ -4151,8 +4151,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2023 (Tier 21)",
-        "PctChange": "+40.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+40.0%"
       },
       "Aurora (Knife)": {
         "Value": "7",
@@ -4160,8 +4160,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2019 (Tier 20)",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "Toxic (Knife)": {
         "Value": "5",
@@ -4169,8 +4169,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Tier 30)",
-        "PctChange": "-28.6%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-28.6%"
       },
       "Wraith (Knife)": {
         "Value": "5",
@@ -4178,8 +4178,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2022 (Tier 13)",
-        "PctChange": "+66.7%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+66.7%"
       },
       "Icicles (Gun)": {
         "Value": "3",
@@ -4187,8 +4187,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2018 (Tier 22)",
-        "PctChange": "-40.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-40.0%"
       },
       "Jack": {
         "Value": "3",
@@ -4196,8 +4196,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2015 (Bingo)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Snakebite (Knife)": {
         "Value": "3",
@@ -4205,8 +4205,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2019 (Tier 23)",
-        "PctChange": "-40.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-40.0%"
       },
       "Vampire (Gun)": {
         "Value": "3",
@@ -4214,8 +4214,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Tier 22)",
-        "PctChange": "-40.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-40.0%"
       },
       "Magma": {
         "Value": "3",
@@ -4223,8 +4223,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "-40.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-40.0%"
       },
       "Candy Swirl (Gun)": {
         "Value": "2",
@@ -4232,8 +4232,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2019 (Tier 24)",
-        "PctChange": "-33.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-33.3%"
       },
       "Sun": {
         "Value": "2",
@@ -4241,8 +4241,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Summer 2023 (Tier 9)",
-        "PctChange": "-33.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-33.3%"
       },
       "Bats": {
         "Value": "2",
@@ -4250,8 +4250,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2016 (Unboxed)",
-        "PctChange": "-33.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-33.3%"
       },
       "Green Marble": {
         "Value": "2",
@@ -4259,8 +4259,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "-33.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-33.3%"
       },
       "Orange Marble": {
         "Value": "2",
@@ -4268,8 +4268,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2016 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Toxic (Gun)": {
         "Value": "2",
@@ -4277,8 +4277,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Darkgun": {
         "Value": "1",
@@ -4286,8 +4286,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2023 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "0%"
       },
       "Gingerbread": {
         "Value": "1",
@@ -4295,8 +4295,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2017 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Monster": {
         "Value": "1",
@@ -4304,8 +4304,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2019 (Tier 15)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Aurora (Gun)": {
         "Value": "1",
@@ -4313,8 +4313,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2019 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Candy Swirl (Knife)": {
         "Value": "1",
@@ -4322,8 +4322,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Christmas 2019 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Snakebite (Gun)": {
         "Value": "1",
@@ -4331,8 +4331,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Vampire (Knife)": {
         "Value": "1",
@@ -4340,8 +4340,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Gingerbread (Gun)": {
         "Value": "x4 T1 Legendaries",
@@ -5087,8 +5087,8 @@
         "Demand": "3",
         "Rarity": "5",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "-2.3%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-2.3%"
       },
       "Brains": {
         "Value": "130",
@@ -5096,8 +5096,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "-3.7%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-3.7%"
       },
       "Zombified (Knife)": {
         "Value": "120",
@@ -5105,8 +5105,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "+4.3%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+4.3%"
       },
       "Gingerbread (Knife) [XMAS2019]": {
         "Value": "85",
@@ -5114,8 +5114,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2019 (Tier 9)",
-        "PctChange": "+6.3%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+6.3%"
       },
       "Sweater (Knife) [XMAS2018]": {
         "Value": "60",
@@ -5123,8 +5123,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2018 (Tier 14)",
-        "PctChange": "+9.1%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+9.1%"
       },
       "Snowflake (Knife) [XMAS2018]": {
         "Value": "55",
@@ -5132,8 +5132,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2018 (Tier 8)",
-        "PctChange": "+10.0%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+10.0%"
       },
       "Branches": {
         "Value": "45",
@@ -5141,8 +5141,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2019 (Tier 10)",
-        "PctChange": "-10.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-10.0%"
       },
       "Mummy (2017)": {
         "Value": "25",
@@ -5150,8 +5150,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "+25.0%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+25.0%"
       },
       "Skulls": {
         "Value": "15",
@@ -5159,8 +5159,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2021 (Tier 14)",
-        "PctChange": "+15.4%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+15.4%"
       },
       "Zombified (Gun)": {
         "Value": "15",
@@ -5168,8 +5168,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2019 (Tier 6)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Void": {
         "Value": "12",
@@ -5177,8 +5177,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Prime Gaming Promo",
-        "PctChange": "+20.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+20.0%"
       },
       "Wrap (Gun)": {
         "Value": "12",
@@ -5186,8 +5186,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2020 (Unboxed)",
-        "PctChange": "+20.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+20.0%"
       },
       "Wrap (Knife)": {
         "Value": "12",
@@ -5195,8 +5195,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2020 (Unboxed)",
-        "PctChange": "+20.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+20.0%"
       },
       "Gingerbread (Knife) [XMAS2020]": {
         "Value": "10",
@@ -5204,8 +5204,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2020 (Tier 6)",
-        "PctChange": "+42.9%",
-        "Diff": "+3"
+        "Diff": "+3",
+        "PctChange": "+42.9%"
       },
       "Ghost": {
         "Value": "10",
@@ -5213,8 +5213,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Retro Item Bundle (2026)",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Steel (Gun)": {
         "Value": "8",
@@ -5222,8 +5222,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2023 (Tier 15)",
-        "PctChange": "+14.3%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+14.3%"
       },
       "Zombie": {
         "Value": "7",
@@ -5231,8 +5231,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2021 (Tier 18)",
-        "PctChange": "+40.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+40.0%"
       },
       "Gothic (Gun)": {
         "Value": "5",
@@ -5240,8 +5240,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2021 (Tier 8)",
-        "PctChange": "-28.6%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-28.6%"
       },
       "Snowman (Gun) [XMAS2021]": {
         "Value": "5",
@@ -5249,8 +5249,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2021 (Tier 13)",
-        "PctChange": "+66.7%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+66.7%"
       },
       "Hazard (Gun)": {
         "Value": "5",
@@ -5258,8 +5258,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2022 (Tier 11)",
-        "PctChange": "+66.7%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+66.7%"
       },
       "Zombie (Gun)": {
         "Value": "5",
@@ -5267,8 +5267,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Tier 11)",
-        "PctChange": "-28.6%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-28.6%"
       },
       "Gingerbread (Gun) [XMAS2020]": {
         "Value": "3",
@@ -5276,8 +5276,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2020 (Unboxed)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Lantern": {
         "Value": "3",
@@ -5285,8 +5285,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2022 (Tier 14)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Moonlight": {
         "Value": "3",
@@ -5294,8 +5294,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2022 (Tier 15)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Webs": {
         "Value": "3",
@@ -5303,8 +5303,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Zombie (2023)": {
         "Value": "3",
@@ -5312,8 +5312,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2023 (Tier 13)",
-        "PctChange": "+200.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+200.0%"
       },
       "Frozen (Gun)": {
         "Value": "3",
@@ -5321,8 +5321,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2019 (Tier 16)",
-        "PctChange": "-40.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-40.0%"
       },
       "Potion (2017)": {
         "Value": "3",
@@ -5330,8 +5330,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Tree (2021)": {
         "Value": "2",
@@ -5339,8 +5339,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2021 (Tier 11)",
-        "PctChange": "+100.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+100.0%"
       },
       "Meltdown": {
         "Value": "2",
@@ -5348,8 +5348,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2023 (Tier 19)",
-        "PctChange": "+100.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+100.0%"
       },
       "Stars (Knife)": {
         "Value": "2",
@@ -5357,8 +5357,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2023 (Tier 10)",
-        "PctChange": "+100.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+100.0%"
       },
       "Pumpkin Pie": {
         "Value": "2",
@@ -5366,8 +5366,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Thanksgiving 2023 (Tier 3)",
-        "PctChange": "-33.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-33.3%"
       },
       "Lights (Gun)": {
         "Value": "2",
@@ -5375,8 +5375,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2019 (Tier 14)",
-        "PctChange": "-33.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-33.3%"
       },
       "Mummy (Gun) [HALLOWS2018]": {
         "Value": "2",
@@ -5384,8 +5384,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Tier 8)",
-        "PctChange": "-33.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-33.3%"
       },
       "Potion (Gun)": {
         "Value": "2",
@@ -5393,8 +5393,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "-33.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-33.3%"
       },
       "Potion (Knife)": {
         "Value": "2",
@@ -5402,8 +5402,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Tier 14)",
-        "PctChange": "-33.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-33.3%"
       },
       "Cookie (Knife)": {
         "Value": "1",
@@ -5411,8 +5411,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2021 (Tier 9)",
-        "PctChange": "0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "0%"
       },
       "Gingerbread (Gun) [XMAS2019]": {
         "Value": "1",
@@ -5420,8 +5420,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Christmas 2019 (Unboxed)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Frozen (Knife)": {
         "Value": "1",
@@ -5429,8 +5429,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2019 (Unboxed)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Holly (Gun)": {
         "Value": "1",
@@ -5438,8 +5438,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2018 (Tier 11)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Lights (Knife)": {
         "Value": "1",
@@ -5447,8 +5447,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Christmas 2019 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Mummy (Knife) [HALLOWS2018]": {
         "Value": "1",
@@ -5456,8 +5456,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Zombie (Knife)": {
         "Value": "1",
@@ -5465,8 +5465,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Moons": {
         "Value": "1",
@@ -5474,8 +5474,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2016 (Unboxed)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Vampire": {
         "Value": "1",
@@ -5483,8 +5483,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2016 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Wolf": {
         "Value": "1",
@@ -5492,8 +5492,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Halloween 2016 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Nutcracker": {
         "Value": "x4 T1 Legendaries",
@@ -6625,8 +6625,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Godly Batwing Deletion",
-        "PctChange": "-7.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-7.1%"
       },
       "Glitch2": {
         "Value": "35",
@@ -6634,8 +6634,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Black Luger Deletion",
-        "PctChange": "-12.5%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-12.5%"
       },
       "Bats (Knife) [HALLOWS2018]": {
         "Value": "230",
@@ -6643,8 +6643,8 @@
         "Demand": "3",
         "Rarity": "5",
         "Origin": "Halloween 2018 (Tier 5)",
-        "PctChange": "-4.2%",
-        "Diff": "-10"
+        "Diff": "-10",
+        "PctChange": "-4.2%"
       },
       "Gifts (Knife)": {
         "Value": "95",
@@ -6652,8 +6652,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2019 (Tier 6)",
-        "PctChange": "+5.6%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+5.6%"
       },
       "Ghoulish": {
         "Value": "90",
@@ -6661,8 +6661,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2023 (Catalog Promo)",
-        "PctChange": "-5.3%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-5.3%"
       },
       "Pine (Knife)": {
         "Value": "85",
@@ -6670,8 +6670,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2019 (Tier 4)",
-        "PctChange": "+6.3%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+6.3%"
       },
       "Mummified": {
         "Value": "35",
@@ -6679,8 +6679,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2019 (Tier 4)",
-        "PctChange": "+16.7%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+16.7%"
       },
       "Frosted (Knife)": {
         "Value": "30",
@@ -6688,8 +6688,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2019 (Tier 2)",
-        "PctChange": "+7.1%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+7.1%"
       },
       "Snowflakes (Gun)": {
         "Value": "30",
@@ -6697,8 +6697,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2019 (Tier 3)",
-        "PctChange": "+20.0%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+20.0%"
       },
       "Wrapped (Gun)": {
         "Value": "30",
@@ -6706,8 +6706,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2018 (Tier 5)",
-        "PctChange": "+11.1%",
-        "Diff": "+3"
+        "Diff": "+3",
+        "PctChange": "+11.1%"
       },
       "Sparkle9": {
         "Value": "30",
@@ -6715,8 +6715,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Sparkle Time Item Pack (200 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Webbed (Gun)": {
         "Value": "25",
@@ -6724,8 +6724,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "+25.0%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+25.0%"
       },
       "Snowman (Gun) [XMAS2018]": {
         "Value": "22",
@@ -6733,8 +6733,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2018 (Tier 4)",
-        "PctChange": "-12.0%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-12.0%"
       },
       "CandyCorn (2017)": {
         "Value": "22",
@@ -6742,8 +6742,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "-12.0%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-12.0%"
       },
       "Ecto": {
         "Value": "22",
@@ -6751,8 +6751,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "-12.0%",
-        "Diff": "-3"
+        "Diff": "-3",
+        "PctChange": "-12.0%"
       },
       "Elf (2018)": {
         "Value": "20",
@@ -6760,8 +6760,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2018 (Tier 3)",
-        "PctChange": "+33.3%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+33.3%"
       },
       "Slimy": {
         "Value": "20",
@@ -6769,8 +6769,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "+11.1%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+11.1%"
       },
       "Sparkle10": {
         "Value": "20",
@@ -6778,8 +6778,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Sparkle Time Item Pack (500 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Sparkle8": {
         "Value": "20",
@@ -6787,8 +6787,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Sparkle Time Item Pack (200 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Sparkle7": {
         "Value": "18",
@@ -6796,8 +6796,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Sparkle Time Item Pack (200 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "RIP": {
         "Value": "17",
@@ -6805,8 +6805,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2019 (Tier 3)",
-        "PctChange": "+13.3%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+13.3%"
       },
       "Coal (Knife) [XMAS2018]": {
         "Value": "15",
@@ -6814,8 +6814,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2018 (Tier 2)",
-        "PctChange": "+25.0%",
-        "Diff": "+3"
+        "Diff": "+3",
+        "PctChange": "+25.0%"
       },
       "Elf (Knife)": {
         "Value": "15",
@@ -6823,8 +6823,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Christmas 2015 (Unboxed)",
-        "PctChange": "-11.8%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-11.8%"
       },
       "Candy Corn (2019)": {
         "Value": "12",
@@ -6832,8 +6832,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "+20.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+20.0%"
       },
       "Pumpkin (2019)": {
         "Value": "12",
@@ -6841,8 +6841,8 @@
         "Demand": "2",
         "Rarity": "4",
         "Origin": "Halloween 2019 (Unboxed)",
-        "PctChange": "+20.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+20.0%"
       },
       "Prism": {
         "Value": "12",
@@ -6850,8 +6850,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Item Code (PR1SM)",
-        "PctChange": "+20.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+20.0%"
       },
       "Sparkle6": {
         "Value": "12",
@@ -6859,8 +6859,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Sparkle Time Item Pack (200 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Combat II": {
         "Value": "10",
@@ -6868,8 +6868,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Item Code (C0MB4T2)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Phantom": {
         "Value": "10",
@@ -6877,8 +6877,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "+25.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+25.0%"
       },
       "Zombie": {
         "Value": "10",
@@ -6886,8 +6886,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2017 (Unboxed)",
-        "PctChange": "+42.9%",
-        "Diff": "+3"
+        "Diff": "+3",
+        "PctChange": "+42.9%"
       },
       "Sparkle4": {
         "Value": "10",
@@ -6895,8 +6895,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Sparkle Time Item Pack (100 Coins)",
-        "PctChange": "+25.0%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+25.0%"
       },
       "Skool": {
         "Value": "8",
@@ -6904,8 +6904,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Item Code (B4CK2SK00L)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Sparkle5": {
         "Value": "8",
@@ -6913,8 +6913,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Sparkle Time Item Pack (200 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Tailslide": {
         "Value": "7",
@@ -6922,8 +6922,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Skate Item Pack (75 Coins)",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "Starry": {
         "Value": "5",
@@ -6931,8 +6931,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2020 (Scary Mode)",
-        "PctChange": "+66.7%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+66.7%"
       },
       "Alex": {
         "Value": "4",
@@ -6940,8 +6940,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Item Code (AL3X)",
-        "PctChange": "+33.3%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+33.3%"
       },
       "Corl": {
         "Value": "4",
@@ -6949,8 +6949,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Item Code (C0RL)",
-        "PctChange": "+33.3%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+33.3%"
       },
       "Denis": {
         "Value": "4",
@@ -6958,8 +6958,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Item Code (D3NIS)",
-        "PctChange": "+33.3%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+33.3%"
       },
       "Euro": {
         "Value": "4",
@@ -6967,8 +6967,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Skate Item Pack (75 Coins)",
-        "PctChange": "-20.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-20.0%"
       },
       "Ollie": {
         "Value": "4",
@@ -6976,8 +6976,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Skate Item Pack",
-        "PctChange": "-20.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-20.0%"
       },
       "Sidewinder": {
         "Value": "4",
@@ -6985,8 +6985,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Skate Item Pack (75 Coins)",
-        "PctChange": "-20.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-20.0%"
       },
       "Sketchy": {
         "Value": "4",
@@ -6994,8 +6994,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Item Code (SK3TCHY)",
-        "PctChange": "+33.3%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+33.3%"
       },
       "Sub": {
         "Value": "4",
@@ -7003,8 +7003,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Item Code (SUB0)",
-        "PctChange": "+33.3%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+33.3%"
       },
       "Apocalypse (Gun)": {
         "Value": "3",
@@ -7012,8 +7012,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2022 (Survivor, Tier 4)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Bats (2020)": {
         "Value": "3",
@@ -7021,8 +7021,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2020 (Scary Mode)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Infected (Gun)": {
         "Value": "3",
@@ -7030,8 +7030,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2022 (Zombie, Tier 4)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Ghosty": {
         "Value": "3",
@@ -7039,8 +7039,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Halloween 2016 (Unboxed)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Sparkle1": {
         "Value": "3",
@@ -7048,8 +7048,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Sparkle Time Item Pack (100 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Sparkle2": {
         "Value": "3",
@@ -7057,8 +7057,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Sparkle Time Item Pack (100 Coins)",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Sparkle3": {
         "Value": "3",
@@ -7066,8 +7066,8 @@
         "Demand": "2",
         "Rarity": "2",
         "Origin": "Sparkle Time Item Pack (100 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Asteroid": {
         "Value": "2",
@@ -7075,8 +7075,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "No Mans Sky Tycoon Promo",
-        "PctChange": "-33.3%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-33.3%"
       },
       "Grind": {
         "Value": "2",
@@ -7084,8 +7084,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Skate Item Pack (75 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Indy": {
         "Value": "2",
@@ -7093,8 +7093,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "Skate Item Pack (75 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Slashed": {
         "Value": "1",
@@ -7102,8 +7102,8 @@
         "Demand": "2",
         "Rarity": "3",
         "Origin": "Halloween 2020 (Scary Mode)",
-        "PctChange": "0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "0%"
       },
       "Bats (Gun) [HALLOWS2018]": {
         "Value": "1",
@@ -7111,8 +7111,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Grave (Gun)": {
         "Value": "1",
@@ -7120,8 +7120,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Tier 3)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Grave (Knife)": {
         "Value": "1",
@@ -7129,8 +7129,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Haunted (Gun)": {
         "Value": "1",
@@ -7138,8 +7138,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Haunted (Knife)": {
         "Value": "1",
@@ -7147,8 +7147,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Tier 4)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Slime (Gun)": {
         "Value": "1",
@@ -7156,8 +7156,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Unboxed)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Slime (Knife)": {
         "Value": "1",
@@ -7165,8 +7165,8 @@
         "Demand": "1",
         "Rarity": "3",
         "Origin": "Halloween 2018 (Tier 2)",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Apocalypse (Knife)": {
         "Value": "x4 T1 Legendaries",
@@ -9000,8 +9000,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM1 (4,000 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Ghost": {
         "Value": "8",
@@ -9009,8 +9009,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM1 (1,200 Coins)",
-        "PctChange": "-20.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-20.0%"
       },
       "Laser": {
         "Value": "8",
@@ -9018,8 +9018,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM1 (1,200 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "America": {
         "Value": "7",
@@ -9027,8 +9027,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM1 July 4th (25 Cash)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Prince": {
         "Value": "6",
@@ -9036,8 +9036,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM1 (2,000 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Shadow": {
         "Value": "6",
@@ -9045,8 +9045,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM1 (3,000 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Phaser": {
         "Value": "5",
@@ -9054,8 +9054,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM1 (2,000 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Cowboy": {
         "Value": "4",
@@ -9063,8 +9063,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM1 (800 Coins)",
-        "PctChange": "-20.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-20.0%"
       },
       "Golden": {
         "Value": "4",
@@ -9072,8 +9072,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM1 (3,500 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Splitter": {
         "Value": "3",
@@ -9081,8 +9081,8 @@
         "Demand": "1",
         "Rarity": "2",
         "Origin": "MM1 (800 Coins)",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       }
     },
     "Pets": {
@@ -9093,8 +9093,8 @@
         "Rarity": "5",
         "Origin": "Halloween 2019 (Tier 25)",
         "Class": "Common",
-        "PctChange": "-3.3%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-3.3%"
       },
       "Elf (2019)": {
         "Value": "600",
@@ -9103,8 +9103,8 @@
         "Rarity": "5",
         "Origin": "Christmas 2019 (Tier 12)",
         "Class": "Uncommon",
-        "PctChange": "-4.0%",
-        "Diff": "-25"
+        "Diff": "-25",
+        "PctChange": "-4.0%"
       },
       "Blue Pumpkin [HALLOWS2018]": {
         "Value": "220",
@@ -9113,8 +9113,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2018 (Tier 18)",
         "Class": "Common",
-        "PctChange": "+4.8%",
-        "Diff": "+10"
+        "Diff": "+10",
+        "PctChange": "+4.8%"
       },
       "Dogey": {
         "Value": "140",
@@ -9123,8 +9123,8 @@
         "Rarity": "4",
         "Origin": "Classic Pet Box",
         "Class": "Uncommon",
-        "PctChange": "-6.7%",
-        "Diff": "-10"
+        "Diff": "-10",
+        "PctChange": "-6.7%"
       },
       "Red Pumpkin [HALLOWS2018]": {
         "Value": "120",
@@ -9133,8 +9133,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2018 (Tier 12)",
         "Class": "Common",
-        "PctChange": "+4.3%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+4.3%"
       },
       "Black Cat": {
         "Value": "75",
@@ -9143,8 +9143,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2019 (Tier 5)",
         "Class": "Common",
-        "PctChange": "+7.1%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+7.1%"
       },
       "Green Pumpkin [HALLOWS2018]": {
         "Value": "60",
@@ -9153,8 +9153,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2018 (Tier 9)",
         "Class": "Common",
-        "PctChange": "+9.1%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+9.1%"
       },
       "Piggy": {
         "Value": "55",
@@ -9163,8 +9163,8 @@
         "Rarity": "4",
         "Origin": "Classic Pet Box",
         "Class": "Common",
-        "PctChange": "+10.0%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+10.0%"
       },
       "Pumpkin (2017)": {
         "Value": "50",
@@ -9173,8 +9173,8 @@
         "Rarity": "5",
         "Origin": "Halloween 2017 (Code: HW2017)",
         "Class": "Common",
-        "PctChange": "-9.1%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-9.1%"
       },
       "Mr. Reindeer": {
         "Value": "45",
@@ -9183,8 +9183,8 @@
         "Rarity": "4",
         "Origin": "Christmas 2020 (Tier 10)",
         "Class": "Rare",
-        "PctChange": "-10.0%",
-        "Diff": "-5"
+        "Diff": "-5",
+        "PctChange": "-10.0%"
       },
       "Elf": {
         "Value": "25",
@@ -9193,8 +9193,8 @@
         "Rarity": "4",
         "Origin": "Christmas 2016 (6 Blue Tokens)",
         "Class": "Common",
-        "PctChange": "+25.0%",
-        "Diff": "+5"
+        "Diff": "+5",
+        "PctChange": "+25.0%"
       },
       "Red Pumpkin [HALLOWS2020]": {
         "Value": "20",
@@ -9203,8 +9203,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2020 (Tier 26)",
         "Class": "Legendary",
-        "PctChange": "-9.1%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-9.1%"
       },
       "Mr. Snowman": {
         "Value": "20",
@@ -9213,8 +9213,8 @@
         "Rarity": "3",
         "Origin": "Christmas 2020 (Tier 4)",
         "Class": "Common",
-        "PctChange": "+11.1%",
-        "Diff": "+2"
+        "Diff": "+2",
+        "PctChange": "+11.1%"
       },
       "Red Pumpkin [HALLOWS2021]": {
         "Value": "17",
@@ -9223,8 +9223,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2021 (Tier 27)",
         "Class": "Legendary",
-        "PctChange": "-5.6%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-5.6%"
       },
       "Skully": {
         "Value": "15",
@@ -9233,8 +9233,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2021 (Tier 21)",
         "Class": "Legendary",
-        "PctChange": "+25.0%",
-        "Diff": "+3"
+        "Diff": "+3",
+        "PctChange": "+25.0%"
       },
       "Green Pumpkin [HALLOWS2020]": {
         "Value": "12",
@@ -9243,8 +9243,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2020 (Tier 18)",
         "Class": "Rare",
-        "PctChange": "-7.7%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-7.7%"
       },
       "Green Pumpkin [HALLOWS2021]": {
         "Value": "10",
@@ -9253,8 +9253,8 @@
         "Rarity": "4",
         "Origin": "Halloween 2021 (Tier 17)",
         "Class": "Rare",
-        "PctChange": "-16.7%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-16.7%"
       },
       "Blue Pumpkin [HALLOWS2020]": {
         "Value": "7",
@@ -9263,8 +9263,8 @@
         "Rarity": "3",
         "Origin": "Halloween 2020 (Tier 12)",
         "Class": "Uncommon",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "<3": {
         "Value": "7",
@@ -9273,8 +9273,8 @@
         "Rarity": "2",
         "Origin": "Valentine's 2016 (400 Coins)",
         "Class": "Common",
-        "PctChange": "-12.5%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-12.5%"
       },
       "Shadow Pumpkin": {
         "Value": "5",
@@ -9283,8 +9283,8 @@
         "Rarity": "3",
         "Origin": "Halloween 2021 (Tier 11)",
         "Class": "Uncommon",
-        "PctChange": "-28.6%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-28.6%"
       },
       "Nobledragon": {
         "Value": "4",
@@ -9294,8 +9294,8 @@
         "Rarity": "2",
         "Origin": "Classic Pet Box",
         "Class": "Legendary",
-        "PctChange": "-20.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-20.0%"
       },
       "Snowbear": {
         "Value": "3",
@@ -9304,8 +9304,8 @@
         "Rarity": "3",
         "Origin": "Christmas 2021 (Tier 4)",
         "Class": "Common",
-        "PctChange": "+50.0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "+50.0%"
       },
       "Chilly": {
         "Value": "3",
@@ -9315,8 +9315,8 @@
         "Rarity": "2",
         "Origin": "Classic Pet Box",
         "Class": "Uncommon",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Eyeball": {
         "Value": "3",
@@ -9326,8 +9326,8 @@
         "Rarity": "2",
         "Origin": "Classic In-Game Shop (900 Coins)",
         "Class": "Rare",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Fairy": {
         "Value": "3",
@@ -9337,8 +9337,8 @@
         "Rarity": "2",
         "Origin": "Classic In-Game Shop (500 Coins)",
         "Class": "Uncommon",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Green Pumpkin [HALLOWS2019]": {
         "Value": "3",
@@ -9348,8 +9348,8 @@
         "Rarity": "2",
         "Origin": "Halloween 2019 (Tier 20)",
         "Class": "Rare",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Jetstream": {
         "Value": "3",
@@ -9359,8 +9359,8 @@
         "Rarity": "2",
         "Origin": "Classic In-Game Shop (800 Coins)",
         "Class": "Rare",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Mechbug": {
         "Value": "3",
@@ -9370,8 +9370,8 @@
         "Rarity": "2",
         "Origin": "Classic Pet Box",
         "Class": "Rare",
-        "PctChange": "-40.0%",
-        "Diff": "-2"
+        "Diff": "-2",
+        "PctChange": "-40.0%"
       },
       "Overseer Eye": {
         "Value": "3",
@@ -9381,8 +9381,8 @@
         "Rarity": "2",
         "Origin": "Classic In-Game Shop (2,000 Coins)",
         "Class": "Legendary",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Pengy": {
         "Value": "3",
@@ -9392,8 +9392,8 @@
         "Rarity": "2",
         "Origin": "Classic Pet Box",
         "Class": "Common",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Purple Pumpkin [HALLOWS2018]": {
         "Value": "3",
@@ -9403,8 +9403,8 @@
         "Rarity": "2",
         "Origin": "Halloween 2018 (Tier 35)",
         "Class": "Common",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Red Pumpkin [HALLOWS2019]": {
         "Value": "3",
@@ -9414,8 +9414,8 @@
         "Rarity": "2",
         "Origin": "Halloween 2019 (Tier 28)",
         "Class": "Rare",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Reindeer": {
         "Value": "3",
@@ -9425,8 +9425,8 @@
         "Rarity": "2",
         "Origin": "Christmas 2016 (20 Blue Tokens)",
         "Class": "Common",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Rudolph": {
         "Value": "3",
@@ -9436,8 +9436,8 @@
         "Rarity": "2",
         "Origin": "Christmas 2019 (Tier 21)",
         "Class": "Legendary",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Seahorsey": {
         "Value": "3",
@@ -9447,8 +9447,8 @@
         "Rarity": "2",
         "Origin": "Classic Pet Box",
         "Class": "Uncommon",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Tankie": {
         "Value": "3",
@@ -9458,8 +9458,8 @@
         "Rarity": "2",
         "Origin": "Classic Pet Box",
         "Class": "Rare",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "UFO": {
         "Value": "3",
@@ -9469,8 +9469,8 @@
         "Rarity": "2",
         "Origin": "Classic Pet Box",
         "Class": "Common",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Vampire Bat": {
         "Value": "3",
@@ -9480,8 +9480,8 @@
         "Rarity": "2",
         "Origin": "Halloween 2019 (Tier 31)",
         "Class": "Legendary",
-        "PctChange": "-25.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-25.0%"
       },
       "Lil' Alien": {
         "Value": "1",
@@ -9490,8 +9490,8 @@
         "Rarity": "2",
         "Origin": "Halloween 2025 (Live Event)",
         "Class": "Common",
-        "PctChange": "0%",
-        "Diff": "+1"
+        "Diff": "+1",
+        "PctChange": "0%"
       },
       "Badger": {
         "Value": "1",
@@ -9500,8 +9500,8 @@
         "Rarity": "2",
         "Origin": "Classic Pet Box",
         "Class": "Common",
-        "PctChange": "0%",
-        "Diff": "+0"
+        "Diff": "+0",
+        "PctChange": "0%"
       },
       "Blue Pumpkin [HALLOWS2019]": {
         "Value": "1",
@@ -9510,8 +9510,8 @@
         "Rarity": "2",
         "Origin": "Halloween 2019 (Tier 9)",
         "Class": "Uncommon",
-        "PctChange": "-50.0%",
-        "Diff": "-1"
+        "Diff": "-1",
+        "PctChange": "-50.0%"
       },
       "Carrot Bunny": {
         "Value": "x3 T1 Legendaries",
